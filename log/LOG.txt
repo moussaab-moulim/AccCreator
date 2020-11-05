@@ -1,0 +1,1189 @@
+[03-07-20 16:46:46] Using Proxy for browser
+[03-07-20 16:46:47] Initializing Browser
+[03-07-20 16:46:48] Trying to validate IP using an API
+[03-07-20 16:46:50] Error occured during loading IP validation API
+[03-07-20 16:46:51] Using Proxy for browser
+[03-07-20 16:46:51] Initializing Browser
+[03-07-20 16:46:51] Trying to validate IP using an API
+[03-07-20 16:47:12] Error occured during loading IP validation API
+[03-07-20 16:47:12] Using Proxy for browser
+[03-07-20 16:47:13] Initializing Browser
+[03-07-20 16:47:13] Trying to validate IP using an API
+[03-07-20 16:54:34] Using Proxy for browser
+[03-07-20 16:54:34] Initializing Browser
+[03-07-20 16:54:35] Trying to validate IP using an API
+[03-07-20 16:54:35] IP validation URL loaded
+[03-07-20 17:00:42] Initializing Browser
+[03-07-20 17:00:43] Account Creation Started
+[03-07-20 17:00:43] Starting 1 of 3 form submission
+[03-07-20 17:00:57] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[03-07-20 17:00:57] Handling Anti-captcha
+[03-07-20 17:00:57] Creating Anti-Captcha Task
+[03-07-20 17:00:58] Anti-Captcha Task created: {"errorId":0,"taskId":965625307}
+[03-07-20 17:00:58] Requesting Anti-Captcha response key
+[03-07-20 17:02:19] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq2734bDgCJMhJpFYWAgqEpgjtRVRrZVXnRY2zuBYYSmCd5KkGLjTZJcIEaAPjPucDQyNitbvpCzDcA9kZDW9VwNC9MqFtJ5F2u-oMs0ReW5bdsipBw-xZH8uHCDfeRxpdyuQmI0NeembMw1dVLV3wfjGM1XoTM1AT53_MexluJe_VdPBtHcFKfp0YvoK9loignYXhkUvlgAp1LiQ1lUhqZzhobxpEmF9IdSuP6JV8nHaWUUi8cOnQJDvbqbLlmXcHwdokcoukJLZIVUsYrI0GP1CtlBaEnlslANlfCOFKeudb9rAYP1R8zeG1xqYUH5VoSVczzA9jkHXTg25nDGqg5FzNEwgFyW_f9ROsaR-09XaelQiBDxiDuxuMaIsAFdcxYm1Fn6wNm8N6unidEIFWR8JbPAkDmmwZsq6y5cTKYPUYz4Pv4gSrFI-Mhoc_d4LqnlVqdYWphPpy2clY2OZGBzmETyFMw","cookies":{"NID":"204=HewbUcT6uAxQi8Vl64uZ77TX22XdsCWLMbejKrygtGkP-NAJ8uVDuZYOGvOYpo8iCLg1U_Ra9WQVH-Zm6ZEG7fZM926mSUk_9zpiPVin3WRNkNwQU670DTXIdGhQa0kEBpkyW3W-MLj-en6uzfpsfKwDAy5E-M_EZbSaPrnSGBs"}},"cost":"0.002209","ip":"160.177.178.182","createTime":1596470460,"endTime":1596470541,"solveCount":0}
+[03-07-20 17:02:19] Anti-captcha response key recieved successfully
+[03-07-20 17:02:19] Page Alteration Started
+[03-07-20 17:02:20] Page Alteration Done
+[03-07-20 17:02:20] Starting Form auto filling
+[03-07-20 17:02:20] Checking email availability
+[03-07-20 17:02:20] Form filling started using random data {"username":"Kvtznlhm6","password":"Endp6e6b4","email":"Kvtznlhm6@mailsac.com","birth":{"day":"09","month":"Oc","year":"1993"}}
+[03-07-20 17:02:21] Form filling finished
+[03-07-20 17:02:23] Submitting filled signup form
+[03-07-20 17:02:25] Searching for submit state in DOM
+[03-07-20 17:02:25] Form was not submitted successfully: {"state":"UNKNOWN"}
+[03-07-20 17:33:07] Initializing Browser
+[03-07-20 17:33:08] Account Creation Started
+[03-07-20 17:33:08] Starting 1 of 3 form submission
+[03-07-20 17:33:22] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[03-07-20 17:33:22] Handling Anti-captcha
+[03-07-20 17:33:22] Creating Anti-Captcha Task
+[03-07-20 17:33:23] Anti-Captcha Task created: {"errorId":0,"taskId":965885074}
+[03-07-20 17:33:23] Requesting Anti-Captcha response key
+[03-07-20 17:34:55] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq245dotIoileZh1uCfWB14EX-wuWikxlTbWa4wlrnI4EChh0LTM_i7YORzYHD3id4kkXtiAcGIhTHyFqRuVNmoReewoAUIyGipsEC-9vnxhfVdgYQzvIB-JXDJ00N6RzPJ41E-u9pTlZ50EBg6rh2zc3Dg40pg_ODS3YzxWAC-F5at30b4N_jSmfxcN_eJffMMacVDLsbMU0z9PZAdxoJK920LIafpQNomZxRXTA9clBX_CLje3mly1KEsIsvjlzFqYQzRUEhnJZZSgik_6fAi1RsEow930n-zp3l821Ph-l9VXSGopd6WhsimjP-IizRR8-ydAjuKwkDiDEIUMcZ1DViLxBn3Yx7sBtjAIqRdzgNe0MUSPf8L_QqAMKDGbuaTfY1lWr4uBvAEqrzQDjnccFB7oIjyViFZCZzXtgQJopOmBRzY4NXB1H3zrlirrD2pWbEEee7MnM6CIci_EWc-e9O43agg","cookies":[]},"cost":"0.002200","ip":"160.177.178.182","createTime":1596472405,"endTime":1596472497,"solveCount":0}
+[03-07-20 17:34:55] Anti-captcha response key recieved successfully
+[03-07-20 17:34:55] Page Alteration Started
+[03-07-20 17:34:55] Page Alteration Done
+[03-07-20 17:34:55] Starting Form auto filling
+[03-07-20 17:34:55] Checking email availability
+[03-07-20 17:34:55] Form filling started using random data {"username":"M8zhlvhfp","password":"Ewnpzfo1z","email":"M8zhlvhfp@moulimmoussaab.ml","birth":{"day":"10","month":"Se","year":"1989"}}
+[03-07-20 17:34:57] Form filling finished
+[03-07-20 17:34:58] Submitting filled signup form
+[03-07-20 17:35:00] Searching for submit state in DOM
+[03-07-20 17:35:00] Form was not submitted successfully: {"state":"UNKNOWN"}
+[03-07-20 18:10:20] Using Proxy for browser
+[03-07-20 18:10:21] Initializing Browser
+[03-07-20 18:10:21] Trying to validate IP using an API
+[03-07-20 18:10:22] IP validation URL loaded
+[03-07-20 18:10:22] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:10:22] Checking for validity of IP
+[03-07-20 18:10:22] IP is not from a valid country
+[03-07-20 18:14:30] Using Proxy for browser
+[03-07-20 18:14:30] Initializing Browser
+[03-07-20 18:14:30] Trying to validate IP using an API
+[03-07-20 18:14:32] IP validation URL loaded
+[03-07-20 18:14:32] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:14:32] Checking for validity of IP
+[03-07-20 18:14:32] IP is not from a valid country
+[03-07-20 18:15:36] Using Proxy for browser
+[03-07-20 18:15:36] Initializing Browser
+[03-07-20 18:15:36] Trying to validate IP using an API
+[03-07-20 18:15:37] IP validation URL loaded
+[03-07-20 18:15:37] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:15:37] Checking for validity of IP
+[03-07-20 18:15:37] IP is not from a valid country
+[03-07-20 18:21:49] Using Proxy for browser
+[03-07-20 18:21:50] Initializing Browser
+[03-07-20 18:21:50] Trying to validate IP using an API
+[03-07-20 18:21:51] IP validation URL loaded
+[03-07-20 18:21:51] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:21:51] Checking for validity of IP
+[03-07-20 18:21:51] IP is not from a valid country
+[03-07-20 18:23:18] Using Proxy for browser
+[03-07-20 18:23:18] Initializing Browser
+[03-07-20 18:23:18] Trying to validate IP using an API
+[03-07-20 18:23:19] IP validation URL loaded
+[03-07-20 18:23:19] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:23:19] Checking for validity of IP
+[03-07-20 18:23:19] IP is not from a valid country
+[03-07-20 18:35:20] Using Proxy for browser
+[03-07-20 18:35:20] Initializing Browser
+[03-07-20 18:35:21] Trying to validate IP using an API
+[03-07-20 18:35:22] IP validation URL loaded
+[03-07-20 18:35:22] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:35:22] Checking for validity of IP
+[03-07-20 18:35:22] IP is not from a valid country
+[03-07-20 18:38:46] Using Proxy for browser
+[03-07-20 18:38:46] Initializing Browser
+[03-07-20 18:38:46] Trying to validate IP using an API
+[03-07-20 18:38:47] IP validation URL loaded
+[03-07-20 18:38:47] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:38:47] Checking for validity of IP
+[03-07-20 18:38:47] IP is from a valid country
+[03-07-20 18:38:47] Account Creation Started
+[03-07-20 18:38:47] Starting 1 of 3 form submission
+[03-07-20 18:38:56] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[03-07-20 18:38:56] Handling Anti-captcha
+[03-07-20 18:38:56] Creating Anti-Captcha Task
+[03-07-20 18:38:57] Anti-Captcha Task created: {"errorId":0,"taskId":966398237}
+[03-07-20 18:38:57] Requesting Anti-Captcha response key
+[03-07-20 18:39:30] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25vLD5-XEFNoQNJrCKxL-C6lhipoMqFnTXLSkdvPMsxoEfC8Qa0pc4HibD_9NUs6eJxhrbEvOEoXZaRXiqMcBi6dI7GmXffhEUbz05K72jYGAsrAHQMjO_RWd7_-nWu4QMFKO9oKAsUCZcGkJMIR8O7RjIG232TMmr31rEcc-Qoob13dnTFdW9XedKzLqhf1FLbRFSSbI8GcY6dGl8Ft1GDvyQfsvFLtBpp9-D97D4wVODbE9Sv-KnmvU-LJrFUEo6ujNjadNajQXAi7jXzMzb_e9j-rU1aJ8sqGiIVP54iBtONePQsCM2hLo6Q0xGQlrVv-HS7t0fqrb9Gnah4FVWQ0TgfLH-m8q22Ga3NSHJg5DJM0-qPC6X-CWqta78OEfpCFC5eM-0Qe1eC6OFqpuK8rIaQOw","cookies":{"NID":"204=vtxXfXD-e4Aa03z866_64XgFHc-_61xe_S30kWYykJ960IpNzjPLqt9Xin44xuU7uHa7nDgficd3rZzy2tpDsxogz80MzuqUVi4KeTBL7Ed7Agj4Pl8nEBZmad-NWJmC6RUARKgal-1OqGT2v4y05tzwaPEk7PS56oTqUf0Vi5A"}},"cost":"0.002570","ip":"160.177.178.182","createTime":1596476337,"endTime":1596476366,"solveCount":0}
+[03-07-20 18:39:30] Anti-captcha response key recieved successfully
+[03-07-20 18:39:30] Page Alteration Started
+[03-07-20 18:39:30] Page Alteration Done
+[03-07-20 18:39:30] Starting Form auto filling
+[03-07-20 18:39:30] Checking email availability
+[03-07-20 18:39:30] Form filling started using random data {"username":"Ata26vf89","password":"Whoy9y979","email":"Ata26vf89@moulimmoussaab.ml","birth":{"day":"03","month":"Ju","year":"1992"}}
+[03-07-20 18:39:31] Form filling finished
+[03-07-20 18:39:32] Submitting filled signup form
+[03-07-20 18:39:35] Searching for submit state in DOM
+[03-07-20 18:39:35] Form was not submitted successfully: {"state":"UNKNOWN"}
+[03-07-20 18:54:16] Using Proxy for browser
+[03-07-20 18:54:16] Initializing Browser
+[03-07-20 18:54:16] Trying to validate IP using an API
+[03-07-20 18:54:17] IP validation URL loaded
+[03-07-20 18:54:17] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[03-07-20 18:54:17] Checking for validity of IP
+[03-07-20 18:54:17] IP is from a valid country
+[03-07-20 18:54:17] Account Creation Started
+[03-07-20 18:54:17] Starting 1 of 3 form submission
+[03-07-20 18:54:27] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[03-07-20 18:54:27] Handling Anti-captcha
+[03-07-20 18:54:27] Creating Anti-Captcha Task
+[03-07-20 18:54:28] Anti-Captcha Task created: {"errorId":0,"taskId":966520283}
+[03-07-20 18:54:28] Requesting Anti-Captcha response key
+[03-07-20 18:55:43] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26FBtfykXjRzMMl7wY-I_Grh2yGRkyRHESGuciModCRpoM4Ju1qqbncutoEmsUd5XC8S-9wRnFYbL1fLzcdMtP0I3at1aER412UdsCc8nr7L13raaVqmMgr1hycdmcfkixrm3HSwFdEMWZ4UL_K-ftflcptLee2jEToDex28298-52V7rMgqCCkqQ-RCOgt6TMwzPYmCwCsqQFmANRlqUH1wlCHYBdbQ6Ycqd3xT0_oK0CWL15fkUxOFmtXP5MfTq8WQD2LRqQ4iuU8NFl9l3HPmCqks4F0hjBhIySurcB4u-vP1wXpK7zXNL35wD2N4jK0z-ORlwWo3Aq45PSGFWDm-83jHqcOU5EaV00V4ZkneybF39AL4ZviUD__R22_Wxy8n1A7y-XUKy8OLxQhte5AgcLBVTXbevBGmlbT1e1lCurR4lBha3P1XUxW9SSaOIJNanMd7CLLxJi5CGV_lArpErKSDA","cookies":{"NID":"204=AEOVTHUkzqOSNdteoMZy-bJYZFWSZJ7tf1qtSHcweqaHoCS-RpJftw2B_KgZ02eNuXiA2nSYxQJninwtDcDTahkkWZbffgq5KPgYDWFKeQucdHEfFMJqo8UZelzEHPbshEXD5Ym827CK7Ujp4GRb3bsXoYf5CnvkeDAnDn8Rsrk"}},"cost":"0.003928","ip":"160.177.178.182","createTime":1596477268,"endTime":1596477339,"solveCount":0}
+[03-07-20 18:55:43] Anti-captcha response key recieved successfully
+[03-07-20 18:55:43] Page Alteration Started
+[03-07-20 18:55:43] Page Alteration Done
+[03-07-20 18:55:43] Starting Form auto filling
+[03-07-20 18:55:43] Checking email availability
+[03-07-20 18:55:43] Form filling started using random data {"username":"U39zhzxoz","password":"Rml9z4r2j","email":"U39zhzxoz@moulimmoussaab.ml","birth":{"day":"05","month":"De","year":"1993"}}
+[03-07-20 18:55:45] Form filling finished
+[03-07-20 18:55:46] Submitting filled signup form
+[03-07-20 18:55:49] Searching for submit state in DOM
+[03-07-20 18:55:49] Form submitted successfully
+[03-07-20 18:55:50] Submitted form page Captured
+[03-07-20 18:55:50] Searching for validation Email
+[03-07-20 18:55:51] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=a0c9d6275fd3f87b7f9805f53421e586
+[03-07-20 18:55:59] Account validated
+[03-07-20 18:56:00] Logging out of the account
+[03-07-20 18:56:01] Account 1 of 3, Created Successfully
+[03-07-20 18:56:01] Starting 2 of 3 form submission
+[03-07-20 18:56:11] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[03-07-20 18:56:11] Handling Anti-captcha
+[03-07-20 18:56:11] Creating Anti-Captcha Task
+[03-07-20 18:56:12] Anti-Captcha Task created: {"errorId":0,"taskId":966533933}
+[03-07-20 18:56:12] Requesting Anti-Captcha response key
+[03-07-20 18:57:35] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26HHfyjrQtXawOiP6APsT_RaIrfU5DatrWpfDVLATgRk2UvD7SlkJBN9s2TzdxJk-odsQgEgSxTqLAhbuzRIPfHpLXLwOWYEgSrr3pW-oXCJdMLaHJ4ZvMwH-2l0UxwmqS2GxEP5ZSie2XpWS73nWituOEaaWWkaEk3xWxQZyadheFe7UYJ6fvH7N_kWyHrjEdcwEZbkQBXrBaqf7irpEwfmdfrAOFJCjCrMkD72OskF4jx945zurLejm_XkBB5B1K059uGkPbw8Oe0ebDBg33rDN6w2q0lYu1_JoXmiFPVq8Ap33LetlRTXsZe6F1HZUJ5c-uiC0GEB38rJoRJdY84uUps0JxRjh8VFW7I3CJmM3petll4DD-l6DVeXLon0zlotRKsgEZIFt7ldr290tMV5j9Djw0qK_yTZIScD9sXzS8eXUVH4t8LLLqDOUBQv3HZh69y","cookies":[]},"cost":"0.003517","ip":"160.177.178.182","createTime":1596477372,"endTime":1596477452,"solveCount":0}
+[03-07-20 18:57:35] Anti-captcha response key recieved successfully
+[03-07-20 18:57:35] Page Alteration Started
+[03-07-20 18:57:35] Page Alteration Done
+[03-07-20 18:57:35] Starting Form auto filling
+[03-07-20 18:57:35] Checking email availability
+[03-07-20 18:57:35] Form filling started using random data {"username":"Upifu659f","password":"Wlfeflhw2","email":"Upifu659f@moulimmoussaab.ml","birth":{"day":"07","month":"No","year":"1998"}}
+[03-07-20 18:57:36] Form filling finished
+[03-07-20 18:57:37] Submitting filled signup form
+[03-07-20 18:57:39] Searching for submit state in DOM
+[03-07-20 18:57:39] Form was not submitted successfully: {"state":"UNKNOWN"}
+[07-07-20 17:46:03] Initializing Browser
+[07-07-20 17:46:05] Account Creation Started
+[07-07-20 17:46:05] Starting 1 of 3 form submission
+[07-07-20 17:46:47] Initializing Browser
+[07-07-20 17:46:48] Account Creation Started
+[07-07-20 17:46:48] Starting 1 of 3 form submission
+[07-07-20 17:48:31] Initializing Browser
+[07-07-20 17:48:31] Account Creation Started
+[07-07-20 17:48:31] Starting 1 of 3 form submission
+[16-07-20 19:47:27] Using Proxy for browser
+[16-07-20 19:47:28] Initializing Browser
+[16-07-20 19:47:29] Trying to validate IP using an API
+[16-07-20 19:47:31] IP validation URL loaded
+[16-07-20 19:47:31] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[16-07-20 19:47:31] Checking for validity of IP
+[16-07-20 19:47:31] IP is from a valid country
+[16-07-20 19:47:31] Account Creation Started
+[16-07-20 19:47:31] Starting 1 of 3 form submission
+[16-07-20 19:47:44] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[16-07-20 19:47:44] Handling Anti-captcha
+[16-07-20 19:47:44] Creating Anti-Captcha Task
+[16-07-20 19:47:46] Anti-Captcha Task created: {"errorId":0,"taskId":1094825251}
+[16-07-20 19:47:46] Requesting Anti-Captcha response key
+[16-07-20 19:48:17] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26Dt2R4FKNL8z0KlV6CW0WRvXVDjRbu7pEDFn1F2gRhs28NKqf3SrXruKtse5y6phYRugCLyHM0KXTzzqtSguoSX_ucQg1e4XdZcK883DhY-0PlHkw7obWJ-nNYdANduKSBy77F_QOMS70zKVCTP4BMyEgjAn74dkDZS8ebe6OBff_ap1ekwSvqhe8bs6QPeBXbCkxdZMVsXkSAFp7RPaOJ4DnioLc66DLLtmFzsrt7N4cSYCvxRcAVDEDgY9YLSDdOR9XzlTLFf3tpz30xseBxLVYSbK9Md3gDKNdhBroTfQqO1UjN6dZeVE_vE5td9RJ8AwNJz-L0vG4UKCSXJbYNZ4M8C5nA-fau4_5twmTM41BNgp1WG5X6ivpsQjrmJfb3-Efd","cookies":{"NID":"204=E9s0ZOS1m07ncRhzqqPMh9cNXTGFBXOa2laJ4uwiu-S8RDBMa1INESQU04ivDv94eW2dgryPzM1Au3UI5Bc7qUphzaQS7RWjsxLBu3n866zgLBo0ekf6rRKp3XetQ3Y-liNKYGftTkMVeZOkFx9tbVkBZQ9ngegcNcY2EVocTlM"}},"cost":"0.002200","ip":"160.178.31.89","createTime":1597603667,"endTime":1597603692,"solveCount":1}
+[16-07-20 19:48:17] Anti-captcha response key recieved successfully
+[16-07-20 19:48:17] Page Alteration Started
+[16-07-20 19:48:17] Page Alteration Done
+[16-07-20 19:48:17] Starting Form auto filling
+[16-07-20 19:48:17] Checking email availability
+[16-07-20 19:48:17] Form filling started using random data {"username":"D3mvsrrhf","password":"U5mn34opc","email":"D3mvsrrhf@moulimmoussaab.ml","birth":{"day":"02","month":"Ma","year":"1991"}}
+[16-07-20 19:48:19] Form filling finished
+[16-07-20 19:48:20] Submitting filled signup form
+[16-07-20 19:48:22] Searching for submit state in DOM
+[16-07-20 19:48:22] Form submitted successfully
+[16-07-20 19:48:23] Submitted form page Captured
+[16-07-20 19:48:23] Searching for validation Email
+[16-07-20 19:48:25] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=acd8f4266be7100c14b7856c29730828
+[16-07-20 19:48:32] Account validated
+[16-07-20 19:48:34] Logging out of the account
+[16-07-20 19:48:35] Account 1 of 3, Created Successfully
+[16-07-20 19:48:35] Starting 2 of 3 form submission
+[16-07-20 19:48:45] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[16-07-20 19:48:45] Handling Anti-captcha
+[16-07-20 19:48:45] Creating Anti-Captcha Task
+[16-07-20 19:48:47] Anti-Captcha Task created: {"errorId":0,"taskId":1094832764}
+[16-07-20 19:48:47] Requesting Anti-Captcha response key
+[16-07-20 20:44:03] Initializing Browser
+[16-07-20 20:44:40] Initializing Browser
+[16-07-20 20:44:42] Account Creation Started
+[16-07-20 20:44:42] Starting 1 of 3 form submission
+[16-07-20 20:44:52] http://www.essonne.gouv.fr/booking/create/23014/0 URL loaded
+[16-07-20 20:44:52] Starting Form auto filling
+[16-07-20 20:44:52] Error on form fill: Error: Evaluation failed: ReferenceError: condition_booking is not defined
+    at __puppeteer_evaluation_script__:2:36
+[16-07-20 20:49:15] Initializing Browser
+[16-07-20 20:49:16] Account Creation Started
+[16-07-20 20:49:16] Starting 1 of 3 form submission
+[16-07-20 20:49:18] http://www.essonne.gouv.fr/booking/create/23014/0 URL loaded
+[16-07-20 20:49:18] Starting Form auto filling
+[16-07-20 20:49:18] Error on form fill: Error: Evaluation failed: ReferenceError: condition_booking is not defined
+    at __puppeteer_evaluation_script__:2:34
+[16-07-20 20:49:50] Initializing Browser
+[16-07-20 20:49:50] Account Creation Started
+[16-07-20 20:49:50] Starting 1 of 3 form submission
+[16-07-20 20:49:53] http://www.essonne.gouv.fr/booking/create/23014/0 URL loaded
+[16-07-20 20:49:53] Starting Form auto filling
+[16-07-20 20:49:53] Error on form fill: Error: Evaluation failed: ReferenceError: condition_booking is not defined
+    at __puppeteer_evaluation_script__:2:34
+[16-07-20 20:50:45] Initializing Browser
+[16-07-20 20:50:46] Account Creation Started
+[16-07-20 20:50:46] Starting 1 of 3 form submission
+[16-07-20 20:50:49] http://www.essonne.gouv.fr/booking/create/23014/0 URL loaded
+[16-07-20 20:50:49] Starting Form auto filling
+[16-07-20 20:50:49] Error on form fill: Error: Evaluation failed: ReferenceError: condition_booking is not defined
+    at __puppeteer_evaluation_script__:2:34
+[16-07-20 20:52:04] Initializing Browser
+[16-07-20 20:52:04] Account Creation Started
+[16-07-20 20:52:04] Starting 1 of 3 form submission
+[16-07-20 20:52:19] http://www.essonne.gouv.fr/booking/create/23014/0 URL loaded
+[16-07-20 20:52:19] Starting Form auto filling
+[16-07-20 20:52:19] Error on form fill: Error: Evaluation failed: ReferenceError: condition_booking is not defined
+    at __puppeteer_evaluation_script__:2:34
+[16-07-20 20:52:45] Using Proxy for browser
+[16-07-20 20:52:49] Initializing Browser
+[16-07-20 20:52:49] Account Creation Started
+[16-07-20 20:52:49] Starting 1 of 3 form submission
+[16-07-20 20:52:52] http://www.essonne.gouv.fr/booking/create/23014/0 URL loaded
+[16-07-20 20:52:52] Starting Form auto filling
+[16-07-20 20:52:52] Error on form fill: Error: Evaluation failed: ReferenceError: condition_booking is not defined
+    at __puppeteer_evaluation_script__:2:34
+[11-08-20 00:52:03] Using Proxy for browser
+[11-08-20 00:52:04] Initializing Browser
+[11-08-20 00:52:05] Trying to validate IP using an API
+[11-08-20 00:52:05] IP validation URL loaded
+[11-08-20 00:52:45] Using Proxy for browser
+[11-08-20 00:52:46] Initializing Browser
+[11-08-20 00:52:46] Trying to validate IP using an API
+[11-08-20 00:52:47] IP validation URL loaded
+[11-08-20 00:52:47] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:52:47] Checking for validity of IP
+[11-08-20 00:52:47] IP is from a valid country
+[11-08-20 00:52:47] Account Creation Started
+[11-08-20 00:52:47] Starting 1 of 3 form submission
+[11-08-20 00:52:58] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:52:58] Handling Anti-captcha
+[11-08-20 00:52:58] Creating Anti-Captcha Task
+[11-08-20 00:52:59] Anti-Captcha Task created: {"errorId":0,"taskId":1358102801}
+[11-08-20 00:52:59] Requesting Anti-Captcha response key
+[11-08-20 00:53:20] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24z2enwS-LQUZ_i3RJTUkMVC1v4N0ls6BMd0WE0Smg9qK65TSlSX_OibTQogt53BY_HvUD0d4hw1Sjhztj_1WTjxQZvF_G88eX-rC4CkADnyt1tPtt_WfoN8MlgIvgapQipZ2jYszBXyEddr5A7-XRA_ce-uHG0f149UQ44cMBAbrfmhYDQ8j1UfbF_We3WpqnCPlAgXzU6xgE04-xSCBEpE6Ic8e5VFJ7u3XVRvlrEHRAVB5BYISj0dOytm8srSf4yRKC7SMxaoihvrvYi1HBIzRTDqumOLsj5ug4gRZ9VwAlgUW4eWEuqAIfd1NNf5yCZtKMnrQjEVVzpan57t9YJwD-Yqfq0yQ8Px_x5O2cyiRAtxFPkUt9o1M-2pWyYati4KVDe","cookies":[]},"cost":"0.002200","ip":"105.159.214.229","createTime":1599781982,"endTime":1599782001,"solveCount":0}
+[11-08-20 00:53:20] Anti-captcha response key recieved successfully
+[11-08-20 00:53:20] Page Alteration Started
+[11-08-20 00:53:20] Page Alteration Done
+[11-08-20 00:53:20] Starting Form auto filling
+[11-08-20 00:53:20] Checking email availability
+[11-08-20 00:53:20] Form filling started using random data {"username":"Qwnbxbf0t","password":"Dia4m8x00","email":"Qwnbxbf0t@moulimmoussaab.ml","birth":{"day":"07","month":"Ja","year":"1988"}}
+[11-08-20 00:53:21] Form filling finished
+[11-08-20 00:53:22] Submitting filled signup form
+[11-08-20 00:53:24] Searching for submit state in DOM
+[11-08-20 00:53:24] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:53:26] Using Proxy for browser
+[11-08-20 00:53:26] Initializing Browser
+[11-08-20 00:53:27] Trying to validate IP using an API
+[11-08-20 00:53:28] IP validation URL loaded
+[11-08-20 00:53:29] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[11-08-20 00:53:29] Checking for validity of IP
+[11-08-20 00:53:29] IP is from a valid country
+[11-08-20 00:53:29] Account Creation Started
+[11-08-20 00:53:29] Starting 1 of 3 form submission
+[11-08-20 00:39:27] Using Proxy for browser
+[11-08-20 00:39:35] Initializing Browser
+[11-08-20 00:39:35] Trying to validate IP using an API
+[11-08-20 00:39:37] IP validation URL loaded
+[11-08-20 00:39:37] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:39:37] Checking for validity of IP
+[11-08-20 00:39:37] IP is from a valid country
+[11-08-20 00:39:37] Account Creation Started
+[11-08-20 00:39:37] Starting 1 of 3 form submission
+[11-08-20 00:39:45] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:39:45] Handling Anti-captcha
+[11-08-20 00:39:45] Creating Anti-Captcha Task
+[11-08-20 00:39:45] Anti-Captcha Task created: {"errorId":0,"taskId":1358385594}
+[11-08-20 00:39:45] Requesting Anti-Captcha response key
+[11-08-20 00:39:59] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26GA9T86fTN-glazCQEUA27MfXSB8Vdwzg8mTGtkvTTbxgHSxOj2stqBJO3MdkM1qnBF0nQsstEVG0AeKnhUd39GGoxw4g0Z1kfuDGNKglETDAVFQ4xjEXKEAaM2OnCWF5c9ShQGz7qzA7ZurdPJIlZ_Vf9CxDGiwUAXY62b3yB0xFEM_0NeEQ1j6Id-Q1PTipSC-z7CXo9SD1X7peWZcUgAIzOrbcG8yFS1bUheOniDgoaGlesdWXN2ZnhDR6hCIANVjP1DxlvlRtt_CmLnGHNM5geHSHIeymRdw0YNl85etCq0E3nUcSlNjb7YHziQltpfGy5kvMpmgVQj8Y6WS10B8gbULrwSdFV9fyAC4XUtpqYauu32H-jNjbubp3NMMqOeOGI","cookies":{"CGIC":"EhQxQzFDSEJGX2VzVkU4NTJWRTg1MiKHAXRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL2F2aWYsaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCxhcHBsaWNhdGlvbi9zaWduZWQtZXhjaGFuZ2U7dj1iMztxPTAuOQ","1P_JAR":"2020-09-10-23","NID":"204=knrpNROjDGcXnN66qHg6QY5AMcq7tLCdl7KnsP_tB2f2gu_PuAF9o8og3QA2R5Qv2pa-hiH8rSclP5BgPqN6IYU7b3Pyk-4l-P5FLWtDHNPQt97WHLZJrIiC7RvErmRhxeWgS-prRvqePSJtniOfS77GlTH3vXCq7F7XLbyAibg"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599784785,"endTime":1599784795,"solveCount":0}
+[11-08-20 00:39:59] Anti-captcha response key recieved successfully
+[11-08-20 00:39:59] Page Alteration Started
+[11-08-20 00:39:59] Page Alteration Done
+[11-08-20 00:39:59] Starting Form auto filling
+[11-08-20 00:39:59] Checking email availability
+[11-08-20 00:39:59] Form filling started using random data {"username":"Pnmhh2k7g","password":"Es8pa0xhn","email":"Pnmhh2k7g@moulimmoussaab.ml","birth":{"day":"07","month":"Ja","year":"1993"}}
+[11-08-20 00:40:00] Form filling finished
+[11-08-20 00:40:02] Submitting filled signup form
+[11-08-20 00:40:04] Searching for submit state in DOM
+[11-08-20 00:40:04] Form was not submitted successfully: {"state":"ERROR"}
+[11-08-20 00:40:06] Using Proxy for browser
+[11-08-20 00:40:07] Initializing Browser
+[11-08-20 00:40:07] Trying to validate IP using an API
+[11-08-20 00:40:08] IP validation URL loaded
+[11-08-20 00:40:08] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[11-08-20 00:40:08] Checking for validity of IP
+[11-08-20 00:40:08] IP is from a valid country
+[11-08-20 00:40:08] Account Creation Started
+[11-08-20 00:40:08] Starting 1 of 3 form submission
+[11-08-20 00:40:14] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:40:14] Handling Anti-captcha
+[11-08-20 00:40:14] Creating Anti-Captcha Task
+[11-08-20 00:40:14] Anti-Captcha Task created: {"errorId":0,"taskId":1358388779}
+[11-08-20 00:40:14] Requesting Anti-Captcha response key
+[11-08-20 00:41:12] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26kUkfHgtNVSmBw6ltaw4WaYO5ZZYEes9Vq62CzQc8sDlJcHiWBz0nQ_Byal4-roe3h1FN83Eol7kUdxxPRS9mL-YBBqKzI2wt1ihmKmaHNLBLFJyc4-gztV34fMnWSVHIIKszSIziRjdJq4CzAh_wiM2w09Qv-YaNrZfRd9aYNKQ3iVsiC5T1MrZw8IdaQ34KSeUitymluApzOLsWwiPAb6Y1JcPadjunBnqNW1yWagEsn_mDMpflRorM6eQ44GnBLQ7ZpV2ebArdxIRwXyunuCD6SvvNajLdd2k1Npsnf96p0FNYrEm7Vt8rCaO6B_cXIZ3u8N0_A7xcRCje5QrzOeL0ZuAq1Kkq0H32Fxy80PCfEIYpkACeTZBUBKW66--wdPgrQEfBKm2daeRpTWwu9fsurgg4I_jMp0HTO9seAH_Zkn34"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599784814,"endTime":1599784870,"solveCount":0}
+[11-08-20 00:41:12] Anti-captcha response key recieved successfully
+[11-08-20 00:41:12] Page Alteration Started
+[11-08-20 00:41:12] Page Alteration Done
+[11-08-20 00:41:12] Starting Form auto filling
+[11-08-20 00:41:12] Checking email availability
+[11-08-20 00:41:12] Form filling started using random data {"username":"Hxfvr1thh","password":"Dm425ropk","email":"Hxfvr1thh@moulimmoussaab.ml","birth":{"day":"02","month":"Fe","year":"1997"}}
+[11-08-20 00:41:13] Form filling finished
+[11-08-20 00:41:14] Submitting filled signup form
+[11-08-20 00:41:16] Searching for submit state in DOM
+[11-08-20 00:41:16] Form submitted successfully
+[11-08-20 00:41:17] Submitted form page Captured
+[11-08-20 00:41:17] Searching for validation Email
+[11-08-20 00:41:18] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=849e0a710144e453c171c03c1274b97c
+[11-08-20 00:41:23] Account validated
+[11-08-20 00:41:25] Logging out of the account
+[11-08-20 00:41:25] Account 1 of 3, Created Successfully
+[11-08-20 00:41:25] Starting 2 of 3 form submission
+[11-08-20 00:41:34] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:41:34] Handling Anti-captcha
+[11-08-20 00:41:34] Creating Anti-Captcha Task
+[11-08-20 00:41:34] Anti-Captcha Task created: {"errorId":0,"taskId":1358397410}
+[11-08-20 00:41:34] Requesting Anti-Captcha response key
+[11-08-20 00:41:42] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq27ANtzM_DOgfAMySCrxWj2QgcXCEpZ77Jf2YqbZlKmkcePFiWdgKycFQK4w_fiFpSecLiaMzCxtIfWjLCaGNR62Td3Og8LXHCzFfM_capfOMSweZx3-LjYneO4WZje0QC8VCrSQyzqhDXY6OObuzxpqBPi7wK-fEc5cu8bb5pC0Yw-QRQt1SZNU88b5yBOk7xN-VqmsV4TEXlhQ36RS86AuXy1RzzAUL0gHz9InR0oJxCiKmDJa5Z-e_4Yr-kjpgjUoyzEhzsrbeSZUnZoZz4X4wKVoAA6mqIcU96KkCBdNwDIg7S1AZkv_1z4kPUgabQPjyhL6Bpt4QtdAiU0Mlt7P4I1CyNrdOwEoZ0BNs9pzd59c8Ieylw4GtK3dUS6LJHc0qJoNffrrrJdTwcY13-LqqkEaKZFLbGfIPD0WqC0kiM0eldlF6w8rh7E9YgDU0lf0q6Fk"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599784894,"endTime":1599784896,"solveCount":0}
+[11-08-20 00:41:42] Anti-captcha response key recieved successfully
+[11-08-20 00:41:42] Page Alteration Started
+[11-08-20 00:41:42] Page Alteration Done
+[11-08-20 00:41:42] Starting Form auto filling
+[11-08-20 00:41:42] Checking email availability
+[11-08-20 00:41:42] Form filling started using random data {"username":"Prbfo7acs","password":"Lsgjhuro3","email":"Prbfo7acs@moulimmoussaab.ml","birth":{"day":"04","month":"De","year":"1995"}}
+[11-08-20 00:41:43] Form filling finished
+[11-08-20 00:41:44] Submitting filled signup form
+[11-08-20 00:41:47] Searching for submit state in DOM
+[11-08-20 00:41:47] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:41:49] Using Proxy for browser
+[11-08-20 00:41:49] Initializing Browser
+[11-08-20 00:41:50] Trying to validate IP using an API
+[11-08-20 00:41:51] IP validation URL loaded
+[11-08-20 00:41:51] Proxy infomarmation recorded: UA,Ukraine,Dnipropetrovsk
+[11-08-20 00:41:51] Checking for validity of IP
+[11-08-20 00:41:51] IP is from a valid country
+[11-08-20 00:41:51] Account Creation Started
+[11-08-20 00:41:51] Starting 1 of 3 form submission
+[11-08-20 00:42:00] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:42:00] Handling Anti-captcha
+[11-08-20 00:42:00] Creating Anti-Captcha Task
+[11-08-20 00:42:00] Anti-Captcha Task created: {"errorId":0,"taskId":1358400068}
+[11-08-20 00:42:00] Requesting Anti-Captcha response key
+[11-08-20 00:42:01] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24f0zUGViVtHDxmbNtNurKxrr7Gzx0Zg3ELSMbGdMvLtptej5P1EAeDY_oD5tgksjNEal_qEUyiWDeNhY_WRbsgQi6mJh5oNfFzBkvOsecTGBGts3Kpou9u6C4X4XKBPEtHXXIPoIyLu7WPeTeZ4hJChAVb7dYTmmn_LuSL2_GypzSFD5jVL8nM2FwL_HJZQRwi4xC8qL6Ak76HrP-LWrq1B4PDcZV1TOMBhSvC1MRpZJRgH0I4felPvKwYxE5RvdrAVPHc7CzzFxRgUWE5JufMBm_yYjULkxSVH1zglJ1Yzsa6mnCLq-opA-_6XAGuaiBibusw2j_nde1GbI-I2G1SNnmTHFD3uMkECcUZqUCjzBX0-YG2dIyjHVkdUjImXObYWoOmm5DfCMKREeE15xpguBebIM0K5J2_xhOFCD_2Nsr60IcQOKZqvapJIofcWdC9sk6-X6BV6myi3Hx2k5xkNuTW7Q"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599784920,"endTime":1599784921,"solveCount":0}
+[11-08-20 00:42:01] Anti-captcha response key recieved successfully
+[11-08-20 00:42:01] Page Alteration Started
+[11-08-20 00:42:01] Page Alteration Done
+[11-08-20 00:42:01] Starting Form auto filling
+[11-08-20 00:42:01] Checking email availability
+[11-08-20 00:42:01] Form filling started using random data {"username":"Xfqwc7tss","password":"Yno02qyaa","email":"Xfqwc7tss@moulimmoussaab.ml","birth":{"day":"06","month":"Ma","year":"1998"}}
+[11-08-20 00:42:02] Form filling finished
+[11-08-20 00:42:03] Submitting filled signup form
+[11-08-20 00:42:05] Searching for submit state in DOM
+[11-08-20 00:42:05] Form submitted successfully
+[11-08-20 00:42:07] Submitted form page Captured
+[11-08-20 00:42:07] Searching for validation Email
+[11-08-20 00:42:07] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=a45db856d82e7042b5b20b76cac36e84
+[11-08-20 00:42:15] Account validated
+[11-08-20 00:42:16] Logging out of the account
+[11-08-20 00:42:17] Account 1 of 3, Created Successfully
+[11-08-20 00:42:17] Starting 2 of 3 form submission
+[11-08-20 00:42:23] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:42:23] Handling Anti-captcha
+[11-08-20 00:42:23] Creating Anti-Captcha Task
+[11-08-20 00:42:24] Anti-Captcha Task created: {"errorId":0,"taskId":1358402509}
+[11-08-20 00:42:24] Requesting Anti-Captcha response key
+[11-08-20 00:42:32] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq265wCApGVU-CcKPIM94zBKMRgdtEXg-W9Nt7ILseDlsXAcDvvdftJT9gxequr3gqBErEVSEK6iPuE0IvV3_CxWxMiropit03LP1JPKnztOXHc0DY6tocdSRQXxsrVS1E6uMKaw4dVhHOK-JNAlRwQLClKk1qxK4pEgiK_X2cqQqIZMY3XGkRikqjuRYka0mS3Yux58YL3Js8zrXPoOUeky3iw9_3lTrcjvFxCx5NhW4cU0JOzGARj_6OI8p-QFPT0ExbtnBbnN2yxCudc9cf5IMkYfXYX0B8HbcF8rdzRmT8FSnDMAVlaJeO1AwMyeREVRdYCg44N7BKhoPr3gpHsfFbJwIyvh61Luxz0bEf7VwkR1bPFFAAbc5p5zj8nCCFHJTIaleKTzXbgwjxaN8yEPA5bXZd6TRqyvM0Fo5qT3K3_DdeGOHKv6iEDF0mUwyidHvmFsWSFocQtbkNVJDG9YMtCWUjg"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599784944,"endTime":1599784945,"solveCount":0}
+[11-08-20 00:42:32] Anti-captcha response key recieved successfully
+[11-08-20 00:42:32] Page Alteration Started
+[11-08-20 00:42:32] Page Alteration Done
+[11-08-20 00:42:32] Starting Form auto filling
+[11-08-20 00:42:32] Checking email availability
+[11-08-20 00:42:32] Form filling started using random data {"username":"Neb6od3qq","password":"Ilkwjadl1","email":"Neb6od3qq@moulimmoussaab.ml","birth":{"day":"05","month":"Ao","year":"1995"}}
+[11-08-20 00:42:33] Form filling finished
+[11-08-20 00:42:34] Submitting filled signup form
+[11-08-20 00:42:36] Searching for submit state in DOM
+[11-08-20 00:42:36] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:42:38] Using Proxy for browser
+[11-08-20 00:42:38] Initializing Browser
+[11-08-20 00:42:38] Trying to validate IP using an API
+[11-08-20 00:42:39] IP validation URL loaded
+[11-08-20 00:42:39] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:42:39] Checking for validity of IP
+[11-08-20 00:42:39] IP is from a valid country
+[11-08-20 00:42:39] Account Creation Started
+[11-08-20 00:42:39] Starting 1 of 3 form submission
+[11-08-20 00:42:46] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:42:46] Handling Anti-captcha
+[11-08-20 00:42:46] Creating Anti-Captcha Task
+[11-08-20 00:42:47] Anti-Captcha Task created: {"errorId":0,"taskId":1358404805}
+[11-08-20 00:42:47] Requesting Anti-Captcha response key
+[11-08-20 00:43:27] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq240rUVhLZIaujjNp_JJLqnKxgSIeHGyMFPOl2cw20YW72Wgi3M5wUUJ_dOD8Nh5tbG9HkhXxjpcYgOlit2yhI0ORbnh_O2dfDo0VMzs373yPg2IOKamnOZpuFS0fyiL17ena8XYmQoAXg5A_rKKqTis45kOB38KERNNcw-vRWWYHbNUxW4R6W0GbWKAYjOgOIZVj2y-ma-X9uWZaBbeSjYjRakiYaMRWQqYMrCoQYeb6y8zJZzjXoKUmfMP1G0c6qSCz6YGKIsOAhAQrJtGtJrrc8YraMV-evW75VTWsFyqJWkkixpq4UjPEYbWE6UD19eZ1LtLSg42tPs7kpPXw8jRcjvucQhmMH8JttQGCmbODVO77LsV_tEQLgHsEHHTL9T3Dow8sMJJZmcMn0S8GgzPtHxC7oDCL13bPMcsin8CF4PCrKUnoFbFWwOPWsghcyg8yZem"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599784967,"endTime":1599785005,"solveCount":0}
+[11-08-20 00:43:27] Anti-captcha response key recieved successfully
+[11-08-20 00:43:27] Page Alteration Started
+[11-08-20 00:43:27] Page Alteration Done
+[11-08-20 00:43:27] Starting Form auto filling
+[11-08-20 00:43:27] Checking email availability
+[11-08-20 00:43:27] Form filling started using random data {"username":"Ynzjjl5m5","password":"Sosv9fo73","email":"Ynzjjl5m5@moulimmoussaab.ml","birth":{"day":"02","month":"Ma","year":"1997"}}
+[11-08-20 00:43:28] Form filling finished
+[11-08-20 00:43:29] Submitting filled signup form
+[11-08-20 00:43:32] Searching for submit state in DOM
+[11-08-20 00:43:32] Form submitted successfully
+[11-08-20 00:43:33] Submitted form page Captured
+[11-08-20 00:43:33] Searching for validation Email
+[11-08-20 00:43:33] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=41ccce4a892d47afa9c6586e86554820
+[11-08-20 00:43:41] Account validated
+[11-08-20 00:43:43] Logging out of the account
+[11-08-20 00:43:43] Account 1 of 3, Created Successfully
+[11-08-20 00:43:43] Starting 2 of 3 form submission
+[11-08-20 00:43:53] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:43:53] Handling Anti-captcha
+[11-08-20 00:43:53] Creating Anti-Captcha Task
+[11-08-20 00:43:54] Anti-Captcha Task created: {"errorId":0,"taskId":1358411751}
+[11-08-20 00:43:54] Requesting Anti-Captcha response key
+[11-08-20 00:43:54] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq270MkH1cMM1gg1GWFPpKJceHQLE7Rzze1UwSAXH41UdywaGy88E6CFwzt8WmV253SfIhwaay0sWW6Jbb9T9Mq53GWn8cbBzh66eUFNfv6_BoPMRyAgWKwRjUzEo56OhwtEI4QB-1AjyO3SykLJs7d01QkNLOpixCXRrEQpg1jV25go1BFj5Lf7vXWc5VzpIBxEoa1OF2ODMAutpKDjtNoObagqXlWnolz51rClbMYXnfMYucs8WMtndnlvCqyZKawmveD_hz_RASRwjnEPFhzi49Fxh4QMgLxLXopYo5KzgfkO2nsrspz8CqS2TMUcJU1bL-NJEkI5w9ANp0EOUQrdJ--erT_rHJnqydPgz2ewkWK1ioZTOyKhhBuuXh3AaW6PWBg3fObbOHcjNj_qriBMvS_zz_RoGauEatbgSjOGs9ths-BHKqU22560LivoYKxUPoN4b"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785033,"endTime":1599785034,"solveCount":0}
+[11-08-20 00:43:54] Anti-captcha response key recieved successfully
+[11-08-20 00:43:54] Page Alteration Started
+[11-08-20 00:43:55] Page Alteration Done
+[11-08-20 00:43:55] Starting Form auto filling
+[11-08-20 00:43:55] Checking email availability
+[11-08-20 00:43:55] Form filling started using random data {"username":"Wjvcm5lhw","password":"Kgj7mlgz3","email":"Wjvcm5lhw@moulimmoussaab.ml","birth":{"day":"03","month":"Ma","year":"1998"}}
+[11-08-20 00:44:00] Form filling finished
+[11-08-20 00:44:01] Submitting filled signup form
+[11-08-20 00:44:04] Searching for submit state in DOM
+[11-08-20 00:44:04] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:44:13] Using Proxy for browser
+[11-08-20 00:44:22] Initializing Browser
+[11-08-20 00:44:22] Trying to validate IP using an API
+[11-08-20 00:44:23] IP validation URL loaded
+[11-08-20 00:44:23] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:44:23] Checking for validity of IP
+[11-08-20 00:44:23] IP is from a valid country
+[11-08-20 00:44:23] Account Creation Started
+[11-08-20 00:44:23] Starting 1 of 3 form submission
+[11-08-20 00:44:44] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:44:44] Handling Anti-captcha
+[11-08-20 00:44:44] Creating Anti-Captcha Task
+[11-08-20 00:44:50] Anti-Captcha Task created: {"errorId":0,"taskId":1358417276}
+[11-08-20 00:44:51] Requesting Anti-Captcha response key
+[11-08-20 00:44:52] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26_zS6D8kiVsqzWFVS_IRvqE18xteqWfPtKh2UF-5_KSe1bHaH-VNCopm_zRM-ab5ikIIoclXwrqW4qM1HV-9BIkt2_3FZ8zIEwiz_t2DggfksUwq6XYs3xwBRolZ0Wn8RDd6GUGMAVrmnJCCwNJkrwLqUxOlWGdyjHVkVNKWSEnbusAkr8OtTD4l19nyVyi4GAvyz6GxxVGZ0mxRzAR1TPWtzQQPT7nrrW0GtQ8FQ0isHgiP0qYc3sQCEBrUrp-48hCKwcNoc6GxQqW1AuOzb9oOrjoqWsABTZHEuoptQulnn6Uig1VVQc6wSI0tiMFILMY4Aqnks9KSAtq2wUlbBSOfUU6rWeBxGLVk17Gt60PSel6rH1IoiXZRHtkjCpLeWmdc7LUx561048lVg-JSKOkvzqDWCI_OtJmUEPPxSeWmfgU4LYsnw_6TV8iE_2pN32qstE"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785089,"endTime":1599785089,"solveCount":0}
+[11-08-20 00:44:52] Anti-captcha response key recieved successfully
+[11-08-20 00:44:52] Page Alteration Started
+[11-08-20 00:44:55] Page Alteration Done
+[11-08-20 00:44:55] Starting Form auto filling
+[11-08-20 00:44:55] Checking email availability
+[11-08-20 00:44:55] Form filling started using random data {"username":"Nmuyu7hwb","password":"Auuxv14as","email":"Nmuyu7hwb@moulimmoussaab.ml","birth":{"day":"08","month":"Fe","year":"1998"}}
+[11-08-20 00:45:09] Form filling finished
+[11-08-20 00:45:12] Submitting filled signup form
+[11-08-20 00:45:15] Searching for submit state in DOM
+[11-08-20 00:45:15] Form submitted successfully
+[11-08-20 00:45:16] Submitted form page Captured
+[11-08-20 00:45:16] Searching for validation Email
+[11-08-20 00:45:17] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=f94d0f254d4dc21d7df9972539f1cb65
+[11-08-20 00:45:38] Account validated
+[11-08-20 00:45:44] Logging out of the account
+[11-08-20 00:45:45] Account 1 of 3, Created Successfully
+[11-08-20 00:45:45] Starting 2 of 3 form submission
+[11-08-20 00:46:10] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:46:13] Handling Anti-captcha
+[11-08-20 00:46:13] Creating Anti-Captcha Task
+[11-08-20 00:46:13] Anti-Captcha Task created: {"errorId":0,"taskId":1358426600}
+[11-08-20 00:46:13] Requesting Anti-Captcha response key
+[11-08-20 00:46:14] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24MH6GVr0628T-yAL3tbfwnlwmigc1CVuyXHyiLSY3QikGL2RpAZGGxMuAkGROCpGuytfky6hhMAr9QS6-CCp3Kvuloh_RXUPQZvnO9rKnnQi9Qrw_rPIq-I1mJiqKQJ0LyLeL_EbO9YIbgIJF-cXm-9T6BITsDUXLviDeduGwoSlYyW8lkuOsvyoddGjDnelMB0104POYq7a-b8dF71PFPY5Q8FbLWdE9NjVlo5OhmXh1y1Qa_8zMBKiU1S6T35xt9MQVsair3o7YC8llP7wuKNKKC_Rc4VyKgzTcZ6uLl6zTsi3BZiO_xWToQe-p4aaayMHwzhNNH6wYCJzBqzQ2suY7VDM-pTezPdmrb4Xz144JCsOpgsK24-JrlSreuVTnlW2ByzAyjfjmwsWf7yLqigq7AYmOry90ZVFr3LizIwGStuHS-ciqF_BAPqLuXveh3OBI374czEd5bfF7AdLoA-YV8mA"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785173,"endTime":1599785174,"solveCount":0}
+[11-08-20 00:46:14] Anti-captcha response key recieved successfully
+[11-08-20 00:46:14] Page Alteration Started
+[11-08-20 00:46:20] Page Alteration Done
+[11-08-20 00:46:20] Starting Form auto filling
+[11-08-20 00:46:20] Checking email availability
+[11-08-20 00:46:20] Form filling started using random data {"username":"Kys6cxpsm","password":"Uy554vkpm","email":"Kys6cxpsm@moulimmoussaab.ml","birth":{"day":"06","month":"Ma","year":"1995"}}
+[11-08-20 00:47:00] Form filling finished
+[11-08-20 00:47:09] Submitting filled signup form
+[11-08-20 00:47:17] Searching for submit state in DOM
+[11-08-20 00:47:19] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:48:01] Using Proxy for browser
+[11-08-20 00:48:14] Initializing Browser
+[11-08-20 00:48:18] Trying to validate IP using an API
+[11-08-20 00:48:21] IP validation URL loaded
+[11-08-20 00:48:22] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:48:22] Checking for validity of IP
+[11-08-20 00:48:22] IP is from a valid country
+[11-08-20 00:48:22] Account Creation Started
+[11-08-20 00:48:22] Starting 1 of 3 form submission
+[11-08-20 00:48:39] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:48:39] Handling Anti-captcha
+[11-08-20 00:48:39] Creating Anti-Captcha Task
+[11-08-20 00:48:40] Anti-Captcha Task created: {"errorId":0,"taskId":1358439829}
+[11-08-20 00:48:41] Requesting Anti-Captcha response key
+[11-08-20 00:49:16] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq253i05cPquysqc1e9dyKqvP2YLuSCQEF9LOyg3ypfAGwX6PNJE2x73w5wjqvw2LwCkfMsSKEr2iAhXh6TULQb1YWxcdRWbYVInT6QqfJwxFr8Smp0hqXkxKjN4wqffRDR6DlXSjvknIb82HX1iiU88w7Ncoelqsmr2_E_OZ7WjaAlgiJC9Fyd5dNMETyAe_SQ_I6pPFE36o6E_aBKBvzMvkKyg0WYSYK1ZliLoNKMLF5LPvDSybf-M5dxyq4uf7yi4kvBDFrisYWyKIaF6UyF0rtO1s8160PeKdbLDnpEz65wSkstn5v3kswSay-iDt17Ww5u_aNgEJSRjpg4wGNEDNfVhV0pQOF5qrdTi_s9hrwWmIJIV1aKoX4ViMIKwUCqg-qPPON8gwmYMQ2Vych0vqIHaaJA","cookies":{"NID":"204=OESf5C27kBx7pC-2W-OqbnfkB6xsD4JJI1SiCmQ0awMIr3gifo0zPsrzgk7ZZqGlh6VSpjNtZDzI3QE2iqNuWDix2I9Dc1TzdZw3CtltmwvggO_yU__4L-SJvz60r6cff1bO9TTKmOzCeTkoEltRyTyzR6YzCzkfCzwIkXdDT10"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785320,"endTime":1599785340,"solveCount":0}
+[11-08-20 00:49:16] Anti-captcha response key recieved successfully
+[11-08-20 00:49:18] Page Alteration Started
+[11-08-20 00:49:25] Page Alteration Done
+[11-08-20 00:49:26] Starting Form auto filling
+[11-08-20 00:49:26] Checking email availability
+[11-08-20 00:49:26] Form filling started using random data {"username":"Gu0r4pinm","password":"Z0ul030q6","email":"Gu0r4pinm@moulimmoussaab.ml","birth":{"day":"03","month":"De","year":"1987"}}
+[11-08-20 00:50:23] Form filling finished
+[11-08-20 00:50:27] Submitting filled signup form
+[11-08-20 00:50:29] Searching for submit state in DOM
+[11-08-20 00:50:29] Form submitted successfully
+[11-08-20 00:50:30] Submitted form page Captured
+[11-08-20 00:50:30] Searching for validation Email
+[11-08-20 00:50:31] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=cacdb2ec74fff9b70fb19c9e7f455c2d
+[11-08-20 00:50:42] Account validated
+[11-08-20 00:50:44] Logging out of the account
+[11-08-20 00:50:44] Account 1 of 3, Created Successfully
+[11-08-20 00:50:44] Starting 2 of 3 form submission
+[11-08-20 00:50:57] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:50:57] Handling Anti-captcha
+[11-08-20 00:50:57] Creating Anti-Captcha Task
+[11-08-20 00:50:59] Anti-Captcha Task created: {"errorId":0,"taskId":1358453086}
+[11-08-20 00:50:59] Requesting Anti-Captcha response key
+[11-08-20 00:51:41] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25Mh1AmptqZU5sjQW69Q-KfwbwBW7KWissiA54FK8JmMqDg9aIP9gsOzzkd0Ahckg7VYgpwcS-bpnEg-gWCjhg9ZlbPjxVr1bw_R4e8I0fehB6mmUUe1VoAKGNiBDgx1Rr3LlQeWKRr0r7BtZmqjaN5X628RvlZt5tkv35oMQC0LPTxuC8jqKPlLLq7t9A7SWAVeTNFECyPpkqUFmKt9f5ePR17K59tnFx8_2awGzgWJXSK6hUm_4it79ECjVyE7zwNW2xWJcCWGjlm1m26OPndJ_CBAyuDa4mRQeaDHkNjZT7yRNeIvwOpmQWJYVcvlnIom_xC10_2K--9ORm9PGMuA38TpzvO-vR29AbTVYUAZXTlMX-GPi4nOYgOf-aJeKT1eY1pKH1dLhezHkM82A6IwD2dbZ7VojTsqPs5o9zc3g8E73MYqoAjbsijU4n2ctM_TScYn3zax80UcstR0amRxqSSSw","cookies":{"NID":"204=WgZ5t6x8Q-YtRMCLyR0-Fc5_r4-GVZ9312ph_znMTrjY5x2grnq6bm0WqIEvhjzxG5fJqWNLpOPaUs6wu1_s652eqBvSoTUyHMqVCxhMU1iBhTG2szxarffPeDnbaUUJV3VPXkQcd_KKJUTBUA9wGyJe6T0BLUn6A6YuHeSWcPc"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785459,"endTime":1599785498,"solveCount":0}
+[11-08-20 00:51:41] Anti-captcha response key recieved successfully
+[11-08-20 00:51:41] Page Alteration Started
+[11-08-20 00:51:41] Page Alteration Done
+[11-08-20 00:51:41] Starting Form auto filling
+[11-08-20 00:51:41] Checking email availability
+[11-08-20 00:51:41] Form filling started using random data {"username":"C48mzlw9l","password":"Kuptwyud2","email":"C48mzlw9l@moulimmoussaab.ml","birth":{"day":"06","month":"Se","year":"1997"}}
+[11-08-20 00:51:43] Form filling finished
+[11-08-20 00:51:44] Submitting filled signup form
+[11-08-20 00:51:47] Searching for submit state in DOM
+[11-08-20 00:51:47] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:51:48] Using Proxy for browser
+[11-08-20 00:51:51] Initializing Browser
+[11-08-20 00:51:54] Trying to validate IP using an API
+[11-08-20 00:51:56] IP validation URL loaded
+[11-08-20 00:51:56] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:51:56] Checking for validity of IP
+[11-08-20 00:51:56] IP is from a valid country
+[11-08-20 00:51:56] Account Creation Started
+[11-08-20 00:51:56] Starting 1 of 3 form submission
+[11-08-20 00:52:03] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:52:03] Handling Anti-captcha
+[11-08-20 00:52:03] Creating Anti-Captcha Task
+[11-08-20 00:52:03] Anti-Captcha Task created: {"errorId":0,"taskId":1358458538}
+[11-08-20 00:52:03] Requesting Anti-Captcha response key
+[11-08-20 00:52:04] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26n2tR-iRGS4xpBxhuZ-TKdW0p_HW_EuFNE0pYKaiJ9ZV0vbzTt0T8c5ze9u6OyNGP1LClzjzO5RMCOksgCVyizrdrCZOwLxo6DNpl6vYJy7B2IVdW0tJuorOj5aqWjb_Ey7NoxtvqwZ5G9VOafUFdUzy3S5NXh7LI3XFvtXDRwn_xFqGbjEYILHi7AiF0jF6vZOTQQxVAzjMmrqHDuZXm0vHcTBo5IFNBFqiOkm-9414A4lBEVXjuLjgA027PtGj7VTmbbGzOgzi8VG0toomHYHOw7cNX6_ftA_K9zOPPoRdpRr6E0weMoetKWvyj0hpRqX93hqHrgOK_XUlz1YpfOWuEajf_ytKJ8VgFfjS3SoRZJs9EOz1Ol2dMlMKKFVozQMMAebWADJNtSvwnaRna1-0W_8RKmhB3k8PG8zASvcKt7JlIFumPFrMKNTnrL2OtcKOoB"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785523,"endTime":1599785524,"solveCount":0}
+[11-08-20 00:52:04] Anti-captcha response key recieved successfully
+[11-08-20 00:52:04] Page Alteration Started
+[11-08-20 00:52:04] Page Alteration Done
+[11-08-20 00:52:04] Starting Form auto filling
+[11-08-20 00:52:04] Checking email availability
+[11-08-20 00:52:04] Form filling started using random data {"username":"Sjlhk7hpw","password":"Bj0h2e1kj","email":"Sjlhk7hpw@moulimmoussaab.ml","birth":{"day":"08","month":"Ja","year":"1989"}}
+[11-08-20 00:52:05] Form filling finished
+[11-08-20 00:52:06] Submitting filled signup form
+[11-08-20 00:52:09] Searching for submit state in DOM
+[11-08-20 00:52:09] Form submitted successfully
+[11-08-20 00:52:10] Submitted form page Captured
+[11-08-20 00:52:10] Searching for validation Email
+[11-08-20 00:52:10] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=1f70e6a046d93da5c7983264f82db3db
+[11-08-20 00:52:19] Account validated
+[11-08-20 00:52:21] Logging out of the account
+[11-08-20 00:52:21] Account 1 of 3, Created Successfully
+[11-08-20 00:52:21] Starting 2 of 3 form submission
+[11-08-20 00:52:32] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:52:32] Handling Anti-captcha
+[11-08-20 00:52:32] Creating Anti-Captcha Task
+[11-08-20 00:52:33] Anti-Captcha Task created: {"errorId":0,"taskId":1358461092}
+[11-08-20 00:52:33] Requesting Anti-Captcha response key
+[11-08-20 00:53:25] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26xgqhdJDlXnPgFv_7IeFXO8ryvWyqqOVXVZTGg5Z9D42ZfqCDZKNnRivO45HO5h5izuQoWwDpu-rIbZ7bIdcBd7zZ2KTu6cU7loULZ0ZPTRFLSmZJX7Dfc-GRTq0lVqGhLJ6bPegFYfUyZrl_2OZB1EKWUGWT8_oVj5nkFH073sQdyPDl5iwsHU28QHENA4UrU5h49ln8-LH2RT9VWFA_FC_9hbzZgk2AFE7UKREJOzAmjmx6wvLVgyDShGilgKUe4T2pSbUR4OSADFXVh8_MuE8RdReyMY4i-OThrci_xAzAi4LVL0aZqgqKg3tCMjeXAGKmTf_jOujABhdb6DpmkxTawI2CiiiSj9kaZFF6R9GGYp9S6b7vq43Aa-Kh2rZ8i9j7P4SkY_zl2Vrir2X5yIJaFIxv71SEmq2O7gbJ0B8ZtVPM","cookies":{"NID":"204=J9tj3R2zF3rxxJTRcfcpmrI3q4Bt6LF4L7r4VPnhsuzJoYLclf5oot7kRCi_ZUutMnJU6Ex0Let8OJ11x1ebCw7SGElN514xnYzCxDqOIBM9jNhuMQTDxjZcfsSt8tahjOPnd9eD2ZNOyygZFM9OWQDsf4e2AT8lA25C0eHQKoQ"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785553,"endTime":1599785603,"solveCount":0}
+[11-08-20 00:53:25] Anti-captcha response key recieved successfully
+[11-08-20 00:53:25] Page Alteration Started
+[11-08-20 00:53:25] Page Alteration Done
+[11-08-20 00:53:25] Starting Form auto filling
+[11-08-20 00:53:25] Checking email availability
+[11-08-20 00:53:25] Form filling started using random data {"username":"Zn28vtbpd","password":"Br6w2oiso","email":"Zn28vtbpd@moulimmoussaab.ml","birth":{"day":"08","month":"Ma","year":"1998"}}
+[11-08-20 00:53:26] Form filling finished
+[11-08-20 00:53:27] Submitting filled signup form
+[11-08-20 00:53:30] Searching for submit state in DOM
+[11-08-20 00:53:30] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 00:54:05] Using Proxy for browser
+[11-08-20 00:54:06] Initializing Browser
+[11-08-20 00:54:06] Trying to validate IP using an API
+[11-08-20 00:54:06] IP validation URL loaded
+[11-08-20 00:54:06] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 00:54:06] Checking for validity of IP
+[11-08-20 00:54:06] IP is from a valid country
+[11-08-20 00:54:06] Account Creation Started
+[11-08-20 00:54:06] Starting 1 of 3 form submission
+[11-08-20 00:54:13] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:54:13] Handling Anti-captcha
+[11-08-20 00:54:13] Creating Anti-Captcha Task
+[11-08-20 00:54:13] Anti-Captcha Task created: {"errorId":0,"taskId":1358469859}
+[11-08-20 00:54:13] Requesting Anti-Captcha response key
+[11-08-20 00:54:14] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq27zFKu3d-kmh-kC51IN07_Ryba7qW_p_SqobrklrYJx4PwMl9OYtxRO0OjuLkNpQzn0P1rfUmnGxXJqBegZFpnhECMihF_OlUgdOMBC9fJq2uU00XBURbUMzEvba1mi35PQUbV9hWHfjh_iUWypdhs22ga63VryRUerbcj5ky3ufEZ8xs8egdnAspF2Y8nRygA41ptm2VewUaT-NUk0As4b2SsCDooGX_Y92vwNFMc4leshJz_6CkMSZKCY2iaw-qK1s-RvjpdxxiXXKVi-j56uOVcLQCMu4GNN7W9Wj_H55DEWt3qftylX3FPVFGAfFQv3iytWZzMOhsufzP8CIDPoxEIs_Eq2SX5jbUO8Wi7QB_jfwUprQN-9qCtC1EAQZCJO09F4AJumzp2n8_hCTZH5JZ-PF8qGDN2zJJoZkGryhoe2GaqJ5qQEFCygSasjlvAMrP6Hu567v4x8TwDA4gmhDUcxqg"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785653,"endTime":1599785653,"solveCount":0}
+[11-08-20 00:54:14] Anti-captcha response key recieved successfully
+[11-08-20 00:54:14] Page Alteration Started
+[11-08-20 00:54:14] Page Alteration Done
+[11-08-20 00:54:14] Starting Form auto filling
+[11-08-20 00:54:14] Checking email availability
+[11-08-20 00:54:14] Form filling started using random data {"username":"Jwqym4qp2","password":"Jof4qw1xl","email":"Jwqym4qp2@moulimmoussaab.ml","birth":{"day":"08","month":"Av","year":"1993"}}
+[11-08-20 00:54:15] Form filling finished
+[11-08-20 00:54:16] Submitting filled signup form
+[11-08-20 00:54:19] Searching for submit state in DOM
+[11-08-20 00:54:19] Form was not submitted successfully: {"state":"ERROR"}
+[11-08-20 00:54:20] Using Proxy for browser
+[11-08-20 00:54:20] Initializing Browser
+[11-08-20 00:54:20] Trying to validate IP using an API
+[11-08-20 00:54:21] IP validation URL loaded
+[11-08-20 00:54:21] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[11-08-20 00:54:21] Checking for validity of IP
+[11-08-20 00:54:21] IP is from a valid country
+[11-08-20 00:54:21] Account Creation Started
+[11-08-20 00:54:21] Starting 1 of 3 form submission
+[11-08-20 00:54:27] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 00:54:27] Handling Anti-captcha
+[11-08-20 00:54:27] Creating Anti-Captcha Task
+[11-08-20 00:54:28] Anti-Captcha Task created: {"errorId":0,"taskId":1358471084}
+[11-08-20 00:54:28] Requesting Anti-Captcha response key
+[11-08-20 00:54:36] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq274Fy_3TyMKjCepKFbDlHMcnqb-kp6k_F2k5N4RqEMqqDLje0dBLB1DJ1WR6oNXl5CXPpPPgKw8-q4-UmFr6rbVw-6EBLv1B-eo4am7UKTjFuh-Ayb6jG99TNVXk1sYaMai6LbeL3VgH7sMxEQ0GRi-UafXMq5ePe5Sl-QJwJlQfrVBYlG2iVIMyCa8OYLVYH9YUbjCPhVYw_DEMtu0qIer7_V8UR2eiemWA6EqQWdVbmDbEWfFM8DrORh6NT-3O8uuEvxG3Toy-D15CR2QVlkEJDLGqWFHlsre7CK-vzi59O52e9zdOBXfyHrArsWjbuxFS9_zXY8pagHoQHlu0g7dfp675vKZpySd8ByHkZSu-UrByavCyPusgP08p8nshgt0LMIQ4QABSkarYomjO4erbqvSFMzIZijfz7LeYAhuM_lZumTeGA2vUaZLF8zKZ3o7zf-Y2Q2zbBLpcGuh18mKcfCVuA"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599785668,"endTime":1599785669,"solveCount":0}
+[11-08-20 00:54:36] Anti-captcha response key recieved successfully
+[11-08-20 00:54:36] Page Alteration Started
+[11-08-20 00:54:36] Page Alteration Done
+[11-08-20 00:54:36] Starting Form auto filling
+[11-08-20 00:54:36] Checking email availability
+[11-08-20 00:54:36] Form filling started using random data {"username":"V30myofr5","password":"Rt423rdyp","email":"V30myofr5@moulimmoussaab.ml","birth":{"day":"01","month":"Ju","year":"1997"}}
+[11-08-20 00:54:43] Form filling finished
+[11-08-20 00:54:45] Submitting filled signup form
+[11-08-20 00:54:48] Searching for submit state in DOM
+[11-08-20 00:54:48] Form submitted successfully
+[11-08-20 00:54:49] Submitted form page Captured
+[11-08-20 00:54:49] Searching for validation Email
+[11-08-20 00:54:50] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=4cf052668ff40c39db97a94d0b545710
+[11-08-20 00:54:56] Account validated
+[11-08-20 00:54:58] Logging out of the account
+[11-08-20 00:54:58] Account 1 of 3, Created Successfully
+[11-08-20 00:54:58] Starting 2 of 3 form submission
+[11-08-20 19:12:05] Using Proxy for browser
+[11-08-20 19:12:22] Using Proxy for browser
+[11-08-20 19:12:23] Initializing Browser
+[11-08-20 19:12:23] Trying to validate IP using an API
+[11-08-20 19:12:44] Error occured during loading IP validation API
+[11-08-20 19:14:37] Using Proxy for browser
+[11-08-20 19:14:37] Initializing Browser
+[11-08-20 19:14:37] Trying to validate IP using an API
+[11-08-20 19:14:58] Error occured during loading IP validation API
+[11-08-20 19:19:54] Using Proxy for browser
+[11-08-20 19:19:54] Initializing Browser
+[11-08-20 19:19:54] Trying to validate IP using an API
+[11-08-20 19:19:55] IP validation URL loaded
+[11-08-20 19:19:55] Proxy infomarmation recorded: FR,France,
+[11-08-20 19:19:55] Checking for validity of IP
+[11-08-20 19:19:55] IP is from a valid country
+[11-08-20 19:19:55] Account Creation Started
+[11-08-20 19:19:55] Starting 1 of 3 form submission
+[11-08-20 19:19:55] Error occured while loading: https://www.dofus.com/fr/mmorpg/jouer Error: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dofus.com/fr/mmorpg/jouer
+[11-08-20 19:19:55] Starting 2 of 3 form submission
+[11-08-20 19:19:56] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:19:56] Handling Anti-captcha
+[11-08-20 19:19:56] Creating Anti-Captcha Task
+[11-08-20 19:19:56] Anti-Captcha Task created: {"errorId":0,"taskId":1365661699}
+[11-08-20 19:19:56] Requesting Anti-Captcha response key
+[11-08-20 19:20:49] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26oA7YA_Up_68uUzkzrnUA3QWeVMDSThyfQH4Olt_xiWE2tkf3o2YIXNkz6r_zKAFcdrqK_NbRaiXzw_OYwDYpn2uTg695DGEQr5TOktgeIWG5CzVka3DZrCdEoj4LhDxHlMzJF8YKdFxEpAwv5DDGGgrhscC0DUAxE-Ddmy_AaDISRGl-xBRyqvd0ppHGiCiRiSzNH7bG4mTOWJo-Jh2D0eNiA5Kpxok9fUVcdqdSwZoD9XEc9ORxjY11SV5Bw_G0SDYUJchaDDFxpj1DN6mPm1-BVgGLyuyPyr3_56KRbVb2hIGt-SIcWfhJ2vo32qqIxOkfcnSmYbFjiAH_1QlsO4kg6TXHhVYBS0md2MLWcMue7A8JsBi42ZaH_rIq9PXXrSEtyjJwiJRFBilh4_oc87P0VeZP5w4Yke2SkJief3M5g44dInfbTdMqI_VTtI8AOLR9lpZ3VBZXvlSUgiq983jP82vDTubicni7zYe5e4jLx8kw","cookies":{"NID":"204=h4mHmY_fvbB8o4f4l_w9yD5JTkqXlW6uSFx51tgPkGfj_SsekQilBN-D1IZvmkbHEsWUsd2jJKGy3FBE-ZayEwC8FTYtjUF9I8-ctjQKDBCop6JoQmMsqm-SEMUy754QXHUtEdPpx8E9gnXvKB9Dz_qjlICYeiQtjL0mUlW397A"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599851996,"endTime":1599852049,"solveCount":0}
+[11-08-20 19:20:49] Anti-captcha response key recieved successfully
+[11-08-20 19:20:49] Page Alteration Started
+[11-08-20 19:20:49] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[11-08-20 19:20:49] Starting 3 of 3 form submission
+[11-08-20 19:21:10] Error occured while loading: https://www.dofus.com/fr/mmorpg/jouer Error: net::ERR_PROXY_CONNECTION_FAILED at https://www.dofus.com/fr/mmorpg/jouer
+[11-08-20 19:21:47] Using Proxy for browser
+[11-08-20 19:21:47] Initializing Browser
+[11-08-20 19:21:47] Trying to validate IP using an API
+[11-08-20 19:21:48] IP validation URL loaded
+[11-08-20 19:21:48] Proxy infomarmation recorded: FR,France,
+[11-08-20 19:21:48] Checking for validity of IP
+[11-08-20 19:21:48] IP is from a valid country
+[11-08-20 19:21:48] Account Creation Started
+[11-08-20 19:21:48] Starting 1 of 3 form submission
+[11-08-20 19:21:49] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:21:49] Handling Anti-captcha
+[11-08-20 19:21:49] Creating Anti-Captcha Task
+[11-08-20 19:21:49] Anti-Captcha Task created: {"errorId":0,"taskId":1365675753}
+[11-08-20 19:21:49] Requesting Anti-Captcha response key
+[11-08-20 19:22:17] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25y7iTP9tGmiymIH3wM7VCdPtA_BLPsinUoEc-wrSftQ1g3y95c6rirMj9nNm5het9iI556nPja7slMiT5Zd4JItBQbuS5Q-nWM9am_tDpkx5NiyfQq3absXIjoTXkKitt4JIYumxsUJP9HTPwhzsIuqTtQCo-IsdnvRiqZJhZsxzAHeRPVJqkPChYI1UGvN8MIpwlka_tC0GxCnqZ3rWlvcuI1cuxFf10BPPe7p6OFl9ZIXYgW6wZOp4n7977CMgsdwS20b8_NwUDD_IkX_kPmXqOFvXTHOFXp3tdC070dtUzoiBCBCUGC-kFQI6HU7dimUoySGlLlJHCKezIcWAROjvJBrQ4p1-IHiy5rDN5JAoD4A0_J46pjhUgCRLmvFyoFFJ0azc7BbrfWBSUSmbiOiAhA1iJMfbP8DYbmM9Z7bkWZr2XeL7tC3LpAn1ZqPs6VfcSV"},"cost":"0.003196","ip":"40.68.194.182","createTime":1599852109,"endTime":1599852136,"solveCount":0}
+[11-08-20 19:22:17] Anti-captcha response key recieved successfully
+[11-08-20 19:22:17] Page Alteration Started
+[11-08-20 19:22:17] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[11-08-20 19:22:17] Starting 2 of 3 form submission
+[11-08-20 19:22:17] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:22:17] Handling Anti-captcha
+[11-08-20 19:22:17] Creating Anti-Captcha Task
+[11-08-20 19:22:18] Anti-Captcha Task created: {"errorId":0,"taskId":1365679231}
+[11-08-20 19:22:18] Requesting Anti-Captcha response key
+[11-08-20 19:23:22] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq27L__9DT_rN_cuxvMaUltgiFk6DJOua7gvQMapbI_Ys7TEj1M-T43Famk8ikk6QBEnQRG-w-DWtY63PZ4HGaHjBzWg3mMqEkZAg6vaw6zcS6QRluDw5TNVknYc5TbF1rQmhbZlPQILTmlve-O3KtoDU3L8mOV6HPA8gxpuBZCaXdBwTx6PlkiIoxJfI7AtKsGh-3rFTJQLQWxmlPydSGudgfgQVaO-IgQKp2-xScKYmE2_iGpN3Jd5Kgn4BAxu-CrEz5jD3cB_k6Yx0rM15KncXBaY7RqsZUO9TbOM2koNWSuxGUpNfvncCWZzFF-6c02e5V5dP4oH2Kgo4EQiXpLpROXeoJCgqIBY1_Eou-IdI7QhuT1rnKhQ206NmSVeUL5z0cyNEtIhUl9bSjgpJ4PXCl55GldtjD0uGZooPxNXWHcRsip4QswvrM9oQNF5bonGbjkxR","cookies":[]},"cost":"0.002802","ip":"40.68.194.182","createTime":1599852138,"endTime":1599852200,"solveCount":0}
+[11-08-20 19:23:22] Anti-captcha response key recieved successfully
+[11-08-20 19:23:22] Page Alteration Started
+[11-08-20 19:23:22] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[11-08-20 19:23:22] Starting 3 of 3 form submission
+[11-08-20 19:23:22] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:23:22] Handling Anti-captcha
+[11-08-20 19:23:22] Creating Anti-Captcha Task
+[11-08-20 19:23:23] Anti-Captcha Task created: {"errorId":0,"taskId":1365687096}
+[11-08-20 19:23:23] Requesting Anti-Captcha response key
+[11-08-20 19:23:23] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24OcwaNoEPHSpAyzx9nfBCgnnkvnJt2_-W8itVUrakDtLeD9uEifK4aZX-nm7Q2uLgZFr_I4NbcWBx40qMTMJco98rPVzsu8z9PyiRppbd-67yiAuzmaUnDTMRy1GSH6RlnfzzZuPk5ofKHxSX9ZvGognKPlzGoceZUyBM9AD8sxp38aToj1sDlLjDEhjkBqabf76KDwuftA6aDr-OpgnMrvMAE1-FZsbpkRPcvbqVtyv9Xn5uFOA0LFGgpdIdQZkZ2VOcNKO7ao4Ds7vCnwxCCDFS0pMsAmtsOxmOllOzYlB8qTETTLogNh3vIdV0UFynrfFpqgwFmhNbmRS1CcPnpR0k6DIMlgzdLB7Rlhtb4H28LZQ1SBIvCQOmcPztw0ma6Rm0f57s_IRgF7EjA4fYvHG4hwwAMiDbote1DQskrLK9C2YMg5PJWg4kmalM4tH0JvViDTHLAA2ehB2IfOMTFdW2TrMX9i4osHOfiNmsypHxYSPA"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599852202,"endTime":1599852203,"solveCount":0}
+[11-08-20 19:23:23] Anti-captcha response key recieved successfully
+[11-08-20 19:23:23] Page Alteration Started
+[11-08-20 19:23:23] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[11-08-20 19:25:41] Using Proxy for browser
+[11-08-20 19:25:41] Initializing Browser
+[11-08-20 19:25:41] Trying to validate IP using an API
+[11-08-20 19:25:42] IP validation URL loaded
+[11-08-20 19:25:42] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 19:25:42] Checking for validity of IP
+[11-08-20 19:25:42] IP is from a valid country
+[11-08-20 19:25:42] Account Creation Started
+[11-08-20 19:25:42] Starting 1 of 3 form submission
+[11-08-20 19:25:47] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:25:47] Handling Anti-captcha
+[11-08-20 19:25:47] Creating Anti-Captcha Task
+[11-08-20 19:25:48] Anti-Captcha Task created: {"errorId":0,"taskId":1365704916}
+[11-08-20 19:25:48] Requesting Anti-Captcha response key
+[11-08-20 19:26:14] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq271PprTDMzGiXpc2ckwRoyDTBo6iaBMXkg18qHM7Za7xz8nhSmwb_5stTJdgd_ZPtQmJBuYR7F6zEYDqVn-BvQf5q7ZYn0t6j90vkPFE6dlO9zjjyh768QcsuDsOpYf92ADPRIlh2n4WZeBBCXjHyKMO6_mF9uQBzlgPgb0y6iOULaM7qeVD8gAYXnftcmHRfIpC14cqrWr4YabcThnRCYJAKaf8gJ2q-GdS3uoU6DBAGpQt2d0ObHBkYIZk9dc3jyIV0rpPyLbyGpCK-Zd9wsqF-EZB8aE0AVfaWSZtfpOpIp-e3b4U1Ngq3j7qMgvgKQHPGJus1BIpv1MpkpuXh2jQmUHl9z4DwZ80FU_vAwCmLuhinVbAV2l2t-hY7UUw1g_xyFDtUs6JqGbf7Hn5HBStf9fK1mknMaCMaYlPj_NROOpRHM","cookies":[]},"cost":"0.002883","ip":"40.68.194.182","createTime":1599852348,"endTime":1599852371,"solveCount":0}
+[11-08-20 19:26:14] Anti-captcha response key recieved successfully
+[11-08-20 19:26:14] Page Alteration Started
+[11-08-20 19:26:14] Page Alteration Done
+[11-08-20 19:26:15] Starting Form auto filling
+[11-08-20 19:26:15] Checking email availability
+[11-08-20 19:26:15] Form filling started using random data {"username":"Gvdb4faxz","password":"Sa66msg4t","email":"Gvdb4faxz@moulimmoussaab.ml","birth":{"day":"01","month":"No","year":"1988"}}
+[11-08-20 19:26:17] Form filling finished
+[11-08-20 19:26:18] Submitting filled signup form
+[11-08-20 19:26:20] Searching for submit state in DOM
+[11-08-20 19:26:20] Form was not submitted successfully: {"state":"ERROR"}
+[11-08-20 19:26:22] Using Proxy for browser
+[11-08-20 19:26:22] Initializing Browser
+[11-08-20 19:26:22] Trying to validate IP using an API
+[11-08-20 19:26:23] IP validation URL loaded
+[11-08-20 19:26:23] Proxy infomarmation recorded: UA,Ukraine,Kyiv
+[11-08-20 19:26:23] Checking for validity of IP
+[11-08-20 19:26:23] IP is from a valid country
+[11-08-20 19:26:23] Account Creation Started
+[11-08-20 19:26:23] Starting 1 of 3 form submission
+[11-08-20 19:26:27] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:26:27] Handling Anti-captcha
+[11-08-20 19:26:27] Creating Anti-Captcha Task
+[11-08-20 19:26:28] Anti-Captcha Task created: {"errorId":0,"taskId":1365709363}
+[11-08-20 19:26:28] Requesting Anti-Captcha response key
+[11-08-20 19:26:35] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26VPZRwsMUdAEmEuLaVTedkeFgwNPYOBbQUl7JuD4VX9O0OVkArX4D4cfMzvDZ0B-OdALv2OHQihuRiITjODf4cIbYKthwelBpirefivz4ZBP2Y6gvqsRxUkw_eLR3DPhJSKCvEeGJkyZ_67VTMcCS1o2TNvibMdRV1IrIz3zOf6aq8ZSjR24D9lJbmoCDlGd6vuT_ihnRmn-qe6kmooN6pujBx6UCdmPJ2AuOo7SILUmt8jSip8FkuEz2MCyu8dqvxBfhrahBtd2I_waI6rBBUUU5MYoge61B3DwpMpkPeY6QZ9QO1xR8UYw-ghwyFbtEqcspOP4iAcc7EzKqVdHsp3MBhuyOL0o55WmkIk7cdwYWKJzzNmiKD1OG_l4fdC6tbluga4auxWb3I7OLWD36I324EIyC315FREVHGp-yIzrmcy6N-BqqBHU4mwYFAPxmosdI7"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599852388,"endTime":1599852388,"solveCount":0}
+[11-08-20 19:26:35] Anti-captcha response key recieved successfully
+[11-08-20 19:26:35] Page Alteration Started
+[11-08-20 19:26:35] Page Alteration Done
+[11-08-20 19:26:35] Starting Form auto filling
+[11-08-20 19:26:35] Checking email availability
+[11-08-20 19:26:35] Form filling started using random data {"username":"M5wigying","password":"Pe8dudxeq","email":"M5wigying@moulimmoussaab.ml","birth":{"day":"01","month":"Ju","year":"1998"}}
+[11-08-20 19:26:36] Form filling finished
+[11-08-20 19:26:37] Submitting filled signup form
+[11-08-20 19:26:39] Searching for submit state in DOM
+[11-08-20 19:26:39] Form submitted successfully
+[11-08-20 19:26:40] Submitted form page Captured
+[11-08-20 19:26:40] Searching for validation Email
+[11-08-20 19:26:41] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=80f0c7c3cc3ab5eb2a56b3d5a9233d31
+[11-08-20 19:26:45] Account validated
+[11-08-20 19:26:46] Logging out of the account
+[11-08-20 19:26:46] Account 1 of 3, Created Successfully
+[11-08-20 19:26:46] Starting 2 of 3 form submission
+[11-08-20 19:26:51] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:26:51] Handling Anti-captcha
+[11-08-20 19:26:51] Creating Anti-Captcha Task
+[11-08-20 19:26:52] Anti-Captcha Task created: {"errorId":0,"taskId":1365712101}
+[11-08-20 19:26:52] Requesting Anti-Captcha response key
+[11-08-20 19:26:59] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26h6-W4mzxvUaGFGPuyJGzJamOhim6MpoHNEYfpurTDWHJCBotTK3QxcWxiQ5ZEYIdknG3Nlb2mp3ge-3uUEp3DUTRgMW8ArxTx0OrscOB0r4ipuOtzA1wN8NZp0cogWxF9lNof8q9-QPIOO0f0nonqpNFInCnQ52c6kFV1KCuQTrzFHyY_XLsN-XF02CQv6qVfrhxATHfUd8CN5-tfE21Gm05tnJ7NKtlz1k5oMZT6ipohYiUWBj5vqpETO39LdepfsOz0BD29eZEvQDBal55Hw6SM7OFcy1OaPe32UBm5sbSQ6Dm2jLGMAZyD036rLT4bP3YJBrwdN58H__MKUtotc1hnxqdyRNCMZ9qWjmtQLi7KviVmT88dNT5PhP0F9qihz2xLe41DhG9stpnM89KToB8u88IM2xWYAmPBgRp1yi3o-P8xS0VNPXlT1b2bHnbvyokL"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599852412,"endTime":1599852412,"solveCount":0}
+[11-08-20 19:26:59] Anti-captcha response key recieved successfully
+[11-08-20 19:26:59] Page Alteration Started
+[11-08-20 19:26:59] Page Alteration Done
+[11-08-20 19:26:59] Starting Form auto filling
+[11-08-20 19:26:59] Checking email availability
+[11-08-20 19:26:59] Form filling started using random data {"username":"Subhtaql0","password":"Yodsty0gk","email":"Subhtaql0@moulimmoussaab.ml","birth":{"day":"05","month":"Ju","year":"1992"}}
+[11-08-20 19:27:00] Form filling finished
+[11-08-20 19:27:01] Submitting filled signup form
+[11-08-20 19:27:03] Searching for submit state in DOM
+[11-08-20 19:27:03] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 19:27:04] Using Proxy for browser
+[11-08-20 19:27:05] Initializing Browser
+[11-08-20 19:27:05] Trying to validate IP using an API
+[11-08-20 19:27:05] IP validation URL loaded
+[11-08-20 19:27:05] Proxy infomarmation recorded: UA,Ukraine,Dnipropetrovsk
+[11-08-20 19:27:05] Checking for validity of IP
+[11-08-20 19:27:05] IP is from a valid country
+[11-08-20 19:27:05] Account Creation Started
+[11-08-20 19:27:05] Starting 1 of 3 form submission
+[11-08-20 19:27:11] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:27:11] Handling Anti-captcha
+[11-08-20 19:27:11] Creating Anti-Captcha Task
+[11-08-20 19:27:12] Anti-Captcha Task created: {"errorId":0,"taskId":1365714538}
+[11-08-20 19:27:12] Requesting Anti-Captcha response key
+[11-08-20 19:27:12] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq27QqKU5GdU588pi155Mf2Tnc-PdDxx2nWU2yRcJqcmDtr_Q9eDtISQqQJ70s5t5MN5lNQMMJijHkUlCT0nmKmLxhCOVwCh8wAIrX6K7XV_HpmrHb1ZW2YRafVLIroT8lmRAfhn7KTCZNeXG4I_xgDERhNWYAy--U-_9DF5E5OCe4R3LHqhQK8aoulVKzYjDGhqQia4k4iYFsugukEopZftUOH2t00oQzuK8ZuU6u94U27yyJyFSXgi_x4X94THTl-INJLmn6LeBQYIwN2Cx6WoXD-zZ0lCiUjU1l4vFW05ZtoGiGYulNaH4eX4wI6WpCIIUQ2KvPDd9qDHNqjEkEu-fKuWsb-6-As0sdgoYh20dRs1H8Ph_WyJBSe8OP7-6ocj8mrWCAbgCe9rfQytR8uPG_MckVjMjmLYYd2rCr8RlJ9jysI3SLCnLoY2N8M_wOr7FPGsJ"},"cost":"0.002365","ip":"40.68.194.182","createTime":1599852432,"endTime":1599852432,"solveCount":0}
+[11-08-20 19:27:12] Anti-captcha response key recieved successfully
+[11-08-20 19:27:12] Page Alteration Started
+[11-08-20 19:27:12] Page Alteration Done
+[11-08-20 19:27:12] Starting Form auto filling
+[11-08-20 19:27:12] Checking email availability
+[11-08-20 19:27:12] Form filling started using random data {"username":"Vqrvzf2uy","password":"Aqtlo9698","email":"Vqrvzf2uy@moulimmoussaab.ml","birth":{"day":"01","month":"Se","year":"1991"}}
+[11-08-20 19:27:13] Form filling finished
+[11-08-20 19:27:14] Submitting filled signup form
+[11-08-20 19:27:16] Searching for submit state in DOM
+[11-08-20 19:27:16] Form submitted successfully
+[11-08-20 19:27:17] Submitted form page Captured
+[11-08-20 19:27:17] Searching for validation Email
+[11-08-20 19:27:18] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=1796371b477a348f164e5c11f6345c33
+[11-08-20 19:27:23] Account validated
+[11-08-20 19:27:24] Logging out of the account
+[11-08-20 19:27:25] Account 1 of 3, Created Successfully
+[11-08-20 19:27:25] Starting 2 of 3 form submission
+[11-08-20 19:27:37] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:27:37] Handling Anti-captcha
+[11-08-20 19:27:37] Creating Anti-Captcha Task
+[11-08-20 19:27:37] Anti-Captcha Task created: {"errorId":0,"taskId":1365717584}
+[11-08-20 19:27:37] Requesting Anti-Captcha response key
+[11-08-20 19:33:47] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26uMy6AoObrtJNk2xIHrt2UILJWZ9UMG5geYwbhW_2tqEZ8ONQiBqJPovf3Yiq3jsnv2pOJ7QOvcKUJsfko4jbZe6mtW6fdh_nwelMAPcBgvrJG2yWAFFsqlpmRRIJVRXTC6IeF0jXytxNwL3LUWr5Bkn1abxMsGPaif9Lir7EhFqZJTQI6v3BZoLPSFKhTBkY9FrjFrAblhBqSUYAxWvY26WUyQtWvod2we9_GnwWcZYEsSak1bP4lp1mJ0st2-gk8ImkIcZYjsrnzUhd8OUrQ9p-lgkagoFDLH6ovY3_0-CIzBOsFmNgQ3Wxm8MQjC6wVuwg5QbW0PNxp8eidwHQUoTK2T-4BosA_OspEG0XWGSQyhhlNYKLAQyL-UloE6epole4Y-9TFtF8b-yavm-F964i2xQWMdNQ-sS98NB2G1JnJIrg","cookies":{"NID":"204=p58NXqdhKGDbztrhgAWggFD81-X-H61Ano7OuxDBPgZh-aBjyXyhci7qDWpYoWUsHbIGaZl0dxr1QLbVJClnu-dxPIoKULY2vly9JhnfWGF-GnhKO4o0KSt0KENqViNzTgkkZhXHctPNY5olLFY-L7c0rdlkH-HCR11pWl3Q5X8","CGIC":"CgtmaXJlZm94LWItZCJKdGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCwqLyo7cT0wLjg","1P_JAR":"2020-09-11-16"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599852457,"endTime":1599852826,"solveCount":1}
+[11-08-20 19:33:47] Anti-captcha response key recieved successfully
+[11-08-20 19:33:47] Page Alteration Started
+[11-08-20 19:33:47] Page Alteration Done
+[11-08-20 19:33:47] Starting Form auto filling
+[11-08-20 19:33:47] Checking email availability
+[11-08-20 19:33:47] Form filling started using random data {"username":"W6jen5ti0","password":"Oeyjpf4sl","email":"W6jen5ti0@moulimmoussaab.ml","birth":{"day":"06","month":"Ju","year":"1989"}}
+[11-08-20 19:33:48] Form filling finished
+[11-08-20 19:33:49] Submitting filled signup form
+[11-08-20 19:33:51] Searching for submit state in DOM
+[11-08-20 19:33:51] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 19:33:53] Using Proxy for browser
+[11-08-20 19:33:53] Initializing Browser
+[11-08-20 19:33:53] Trying to validate IP using an API
+[11-08-20 19:33:54] IP validation URL loaded
+[11-08-20 19:33:54] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 19:33:54] Checking for validity of IP
+[11-08-20 19:33:54] IP is from a valid country
+[11-08-20 19:33:54] Account Creation Started
+[11-08-20 19:33:54] Starting 1 of 3 form submission
+[11-08-20 19:33:59] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:33:59] Handling Anti-captcha
+[11-08-20 19:33:59] Creating Anti-Captcha Task
+[11-08-20 19:34:00] Anti-Captcha Task created: {"errorId":0,"taskId":1365761171}
+[11-08-20 19:34:00] Requesting Anti-Captcha response key
+[11-08-20 19:35:43] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24-YQBDi0fV5rMD72st7Zu4aqjDSEB1hNAgeyE7sKKPoKZbOmhMGu8TnYWDBclZD7KEUJ5kIecKRs2JIHgg52kUzhKzx-uhHsfZ6NFKszyfi53jukNn4fnCgjmYSjEalNN4Ad1hGShSQIqE_PvtF2a03Kh2GhKIpW6f_4rrjKKFdUobG7kCA8D5CUYPiBzc_ZWa1134fgdjPPJ7UpGE0xUUyol_Deoc9UGDnLD88GSR4kpGmFOC9Nti5UzYz-oOA6xJHcul5o5LDLFxVJ-VApgq2zlGcvKQAZtOWP7X-gsBjCMmtTtuGmJrfz3_6b28xuutBBKIk5SS1ICKX9g9G6r0hmMzjFrPW9c43lDNL5RHxIUMSzOjPEp5acQJOluhQWgxCRodX3AodpC2g-Bx-WsFOuLk51JldHp6SycWHWhtXUYmSuKfRkjbPF7HiNHg7kF6tLJy","cookies":{"NID":"204=IDu0Oh3qr1qQsFWY0VbTyTb8hqJEN6cucAJGcDdiMHZe2eNP8A5z6cuwtpnmIRzBRLL4vSNe11x4nsct_AWkJXuSXlhQjU6mTXp175XQm7PE3aPthRkLkIZn3VLQYNVZ9amG2p9ECtVpehCJScu-sNDdTBQlpDAMldKmbwN218Y"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1599852840,"endTime":1599852943,"solveCount":1}
+[11-08-20 19:35:43] Anti-captcha response key recieved successfully
+[11-08-20 19:35:43] Page Alteration Started
+[11-08-20 19:35:43] Page Alteration Done
+[11-08-20 19:35:43] Starting Form auto filling
+[11-08-20 19:35:43] Checking email availability
+[11-08-20 19:35:43] Form filling started using random data {"username":"Y3xt1faah","password":"Pe55el51o","email":"Y3xt1faah@moulimmoussaab.ml","birth":{"day":"01","month":"No","year":"1996"}}
+[11-08-20 19:35:45] Form filling finished
+[11-08-20 19:35:46] Submitting filled signup form
+[11-08-20 19:35:48] Searching for submit state in DOM
+[11-08-20 19:35:48] Form submitted successfully
+[11-08-20 19:35:49] Submitted form page Captured
+[11-08-20 19:35:49] Searching for validation Email
+[11-08-20 19:35:50] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=1a73eba4000d7c5a6dbaed259ac700f8
+[11-08-20 19:35:55] Account validated
+[11-08-20 19:35:56] Logging out of the account
+[11-08-20 19:35:56] Account 1 of 3, Created Successfully
+[11-08-20 19:35:56] Starting 2 of 3 form submission
+[11-08-20 19:36:05] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:36:05] Handling Anti-captcha
+[11-08-20 19:36:05] Creating Anti-Captcha Task
+[11-08-20 19:36:06] Anti-Captcha Task created: {"errorId":0,"taskId":1365776120}
+[11-08-20 19:36:06] Requesting Anti-Captcha response key
+[11-08-20 19:37:11] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24y-QblkQ_VczvhxCpQ2Q7DXc_0BzKfCIwp2Pbav9vZpjjmSgORs9_f6C8TxK01RPcTBnaZFw14wBcJzcAZFfi9SRr0vqICkIcXBukIekqyrhc7GN9hJ0LPhwJi6FZfAin3rwaw4YxZh82tNLFsYHL4EOf-GM72C7o03ApPpVAK6tujOrvRkRX97y5WyCyqRhrCkRZrGAU8FeI2tHdbHkVY5y5rKLlFJCf97x_bTM5ywXhKEbo0RhiEkUhs-J_8du-Yg3aGQ3GjtNf3PxIUeBtPSnXfQ6YLXYB6va40EAUOE8fiK340q8gTTnCRMBPjlXAIeWWS4_FNYD4KVwpOGDxvS_tlGJp2ZMTAl8GNKILFXTfwYoaGGQhEj6IUFwt8bPbgOdt1H-UQqYsOgA-bioG5A-MorvIgyQEA9WbetTXs54nIWiE","cookies":[]},"cost":"0.003034","ip":"40.68.194.182","createTime":1599852966,"endTime":1599853029,"solveCount":0}
+[11-08-20 19:37:11] Anti-captcha response key recieved successfully
+[11-08-20 19:37:11] Page Alteration Started
+[11-08-20 19:37:11] Page Alteration Done
+[11-08-20 19:37:11] Starting Form auto filling
+[11-08-20 19:37:11] Checking email availability
+[11-08-20 19:37:11] Form filling started using random data {"username":"Tgk8j1nmp","password":"E0u3jc8ep","email":"Tgk8j1nmp@moulimmoussaab.ml","birth":{"day":"05","month":"Fe","year":"1988"}}
+[11-08-20 19:37:12] Form filling finished
+[11-08-20 19:37:13] Submitting filled signup form
+[11-08-20 19:37:15] Searching for submit state in DOM
+[11-08-20 19:37:15] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 19:37:16] Using Proxy for browser
+[11-08-20 19:37:16] Initializing Browser
+[11-08-20 19:37:16] Trying to validate IP using an API
+[11-08-20 19:37:17] IP validation URL loaded
+[11-08-20 19:37:17] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 19:37:17] Checking for validity of IP
+[11-08-20 19:37:17] IP is from a valid country
+[11-08-20 19:37:17] Account Creation Started
+[11-08-20 19:37:17] Starting 1 of 3 form submission
+[11-08-20 19:37:22] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:37:22] Handling Anti-captcha
+[11-08-20 19:37:22] Creating Anti-Captcha Task
+[11-08-20 19:37:26] Anti-Captcha Task created: {"errorId":0,"taskId":1365785078}
+[11-08-20 19:37:26] Requesting Anti-Captcha response key
+[11-08-20 19:37:33] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq253KwqSm5tiJGEBk8GB6KNR6ZMRyaN9ZaRbMJoGtFeVdvEHGP8hSmGzFfhGNlcjaaUWwdvixi5h5fRXaOGzvLu7ej2gJj7HJN5elkOLJd6Yn8Hhuv0_6Q8E2L4YmKE_CAq2XpdEa-7-216NIPbCJFr85XefZK0eF8NBsfO691hHQMr79GCK3lwnIimxHHvngmTl-HLlJ-A3eqILaubTfBCb_-czmKU_-RvIoJRjBBZ7sV3t2kN8oZz4BDJasqByN0TzF2FBatxhJoaODiUV8hDLPwVDf-5wuLhyswVMTgd0qSG-HLlRCQh5A8RUVUQefbIJ_hRVULhTY18ZlxMcxjxWTYNCqqLUgfGflDJ1rslxITbz3DNnr5DIPp77NBmAaUh6vbgoFom4bI6uiQ-gjSRI4zDRM58nURL3hlVABLsX9IFsolt79b29a_p5TMaHbEHaA7Rv"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599853046,"endTime":1599853047,"solveCount":0}
+[11-08-20 19:37:33] Anti-captcha response key recieved successfully
+[11-08-20 19:37:33] Page Alteration Started
+[11-08-20 19:37:33] Page Alteration Done
+[11-08-20 19:37:33] Starting Form auto filling
+[11-08-20 19:37:33] Checking email availability
+[11-08-20 19:37:33] Form filling started using random data {"username":"Rdb4x2cfg","password":"Xsek4lhub","email":"Rdb4x2cfg@moulimmoussaab.ml","birth":{"day":"01","month":"Ju","year":"1991"}}
+[11-08-20 19:37:34] Form filling finished
+[11-08-20 19:37:35] Submitting filled signup form
+[11-08-20 19:37:37] Searching for submit state in DOM
+[11-08-20 19:37:37] Form submitted successfully
+[11-08-20 19:37:38] Submitted form page Captured
+[11-08-20 19:37:38] Searching for validation Email
+[11-08-20 19:37:38] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=da86abb25a56a96ac989035235dd75e4
+[11-08-20 19:37:42] Account validated
+[11-08-20 19:37:43] Logging out of the account
+[11-08-20 19:37:44] Account 1 of 3, Created Successfully
+[11-08-20 19:37:44] Starting 2 of 3 form submission
+[11-08-20 19:37:49] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:37:49] Handling Anti-captcha
+[11-08-20 19:37:49] Creating Anti-Captcha Task
+[11-08-20 19:37:50] Anti-Captcha Task created: {"errorId":0,"taskId":1365787770}
+[11-08-20 19:37:50] Requesting Anti-Captcha response key
+[11-08-20 19:37:56] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25b-TP3u8xJeez9guZ61ImuSVrrzZRdG8FsoEETXX1G3XKogAOJO2b0RdokxJbTUhe1IJEkMUtgbGz6M-cuqbH6_b0LiPko0dzH_AWuc1MuAnZ_rgpoXizM354rZxhomXYFPt6Z08q0l33PE2Nk1F25xkc0lZLbdz96UGm4-LwfDKx-taqVMtKGUcyOqHyW_w6dHhxD8zM6G8858wk8POkcWkX6tLzZioeRZDzInt6cnjKkfFy-29J-2Ml4FHSoNUo2-oysEEMxnzlahLlk3Ox609dF2OfhkcMUNlSvcFHt3vWuMIMiXLBi-acKgziNTphHrMpw2lhQilX3mlKM78t8pys7RvDSTQUHv3yScJ-mtx-_ZrfzPjdujaRQz9J31xyvFrZKl0d9tVISQxHMmDinnyOczd2tIcJp0D8SKI9QOeMImEQ25AeGaZ-2y3MAZV3ZSLjtHRhae1YkNY-iLm3rf6Tv9ylMjv1Qzw6Zu3luXniyA7Y"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599853070,"endTime":1599853071,"solveCount":0}
+[11-08-20 19:37:56] Anti-captcha response key recieved successfully
+[11-08-20 19:37:56] Page Alteration Started
+[11-08-20 19:37:56] Page Alteration Done
+[11-08-20 19:37:56] Starting Form auto filling
+[11-08-20 19:37:56] Checking email availability
+[11-08-20 19:37:56] Form filling started using random data {"username":"Dib9m3bay","password":"Hwwcv0lv8","email":"Dib9m3bay@moulimmoussaab.ml","birth":{"day":"03","month":"No","year":"1996"}}
+[11-08-20 19:37:56] Form filling finished
+[11-08-20 19:37:58] Submitting filled signup form
+[11-08-20 19:38:00] Searching for submit state in DOM
+[11-08-20 19:38:00] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 19:38:01] Using Proxy for browser
+[11-08-20 19:38:01] Initializing Browser
+[11-08-20 19:38:01] Trying to validate IP using an API
+[11-08-20 19:38:02] IP validation URL loaded
+[11-08-20 19:38:02] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 19:38:02] Checking for validity of IP
+[11-08-20 19:38:02] IP is from a valid country
+[11-08-20 19:38:02] Account Creation Started
+[11-08-20 19:38:02] Starting 1 of 3 form submission
+[11-08-20 19:38:07] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:38:07] Handling Anti-captcha
+[11-08-20 19:38:07] Creating Anti-Captcha Task
+[11-08-20 19:38:08] Anti-Captcha Task created: {"errorId":0,"taskId":1365789718}
+[11-08-20 19:38:08] Requesting Anti-Captcha response key
+[11-08-20 19:38:22] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25r4Rtf6YCXR1ra3wQ8OLJGXkgPgjLET8POu4LgdrKrMcqFuzQAnUArBP0MfxJZ2agPPUMrFE6UMKVMHEOwhse7ETN0vnIxfyjaOToKZRgqTORgMe_4YF9y97B46vjgrgIJD85S5MKJnRJCENiGngU1vb8mWfrrAXuMlC8pC-Ohaf6jX8qoK-0J-e5Wr03WslTyRnkQs-AH0rNXmsD4Dbu1skNR_aOzF8FmffotkqOzlFiCdmiWKbzW4bYJtIlFG-BVP6ub8u5jgRTkoeCmK7UPAfMYfvuZy9TAs5GIi7c0wymcLb3FXAs6PHTOBw7zzYcjaWJyqwSop6Mj_0P0TzRWcHA779gxrnahf7FA3Zece-DJl4WlU80nNSn2N8ixdTz7uZY1mzB4xUNOufsyySRH08czuhKLfc17-CSOOYX4ePyC9lc"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599853087,"endTime":1599853101,"solveCount":0}
+[11-08-20 19:38:22] Anti-captcha response key recieved successfully
+[11-08-20 19:38:22] Page Alteration Started
+[11-08-20 19:38:22] Page Alteration Done
+[11-08-20 19:38:22] Starting Form auto filling
+[11-08-20 19:38:22] Checking email availability
+[11-08-20 19:38:22] Form filling started using random data {"username":"Jyk892dcp","password":"Cpn4py4pd","email":"Jyk892dcp@moulimmoussaab.ml","birth":{"day":"01","month":"Ju","year":"1993"}}
+[11-08-20 19:38:23] Form filling finished
+[11-08-20 19:38:24] Submitting filled signup form
+[11-08-20 19:38:26] Searching for submit state in DOM
+[11-08-20 19:38:26] Form submitted successfully
+[11-08-20 19:38:27] Submitted form page Captured
+[11-08-20 19:38:27] Searching for validation Email
+[11-08-20 19:38:28] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=7093e542e37550227c804fcc688c807b
+[11-08-20 19:38:32] Account validated
+[11-08-20 19:38:33] Logging out of the account
+[11-08-20 19:38:34] Account 1 of 3, Created Successfully
+[11-08-20 19:38:34] Starting 2 of 3 form submission
+[11-08-20 19:38:42] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:38:42] Handling Anti-captcha
+[11-08-20 19:38:42] Creating Anti-Captcha Task
+[11-08-20 19:38:43] Anti-Captcha Task created: {"errorId":0,"taskId":1365793734}
+[11-08-20 19:38:43] Requesting Anti-Captcha response key
+[11-08-20 19:39:15] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25A94X05H_uF_FVmLMLi-lLSt-1agJokjjMmA1NFY_b-18JAHaUwOETrEu35Fw44nRNiuV0DswDM50X_iS3GHd9gD27fcNqpM3S17HYGzjmMdZMclNAd-hz4VTMFUSGxXccb71D2OrT4u7hY-C_lQQDLiA1sR2x8nCvHGOildj5hfG_T3uesIKFuZuyQyLu5bLAHJlzmy2XgTCvCU848Mg1bfa9mA2xWUTu_RRVoqaxKp4x6ayLHxjY52TEfdWcuDHkbejipPv_Mx2_OV-0pRlrPdZrHqnQVW0XhNWoPbUO4kS4JY5lMP6BWrvrzEkEf8ktZM456CM5SUMbEeHCO4GQBBTaLtPohx4zJttHOyh1xzSMqdZLWzSKPpf_Kk2n0VmhPALA-f3-59pJNG9xSCAgDYY-XKsAeON4sgG_0pz04OKASLMNrDk91tCTgefQrs2cp4HP"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599853123,"endTime":1599853154,"solveCount":0}
+[11-08-20 19:39:15] Anti-captcha response key recieved successfully
+[11-08-20 19:39:15] Page Alteration Started
+[11-08-20 19:39:15] Page Alteration Done
+[11-08-20 19:39:15] Starting Form auto filling
+[11-08-20 19:39:15] Checking email availability
+[11-08-20 19:39:15] Form filling started using random data {"username":"Poas5dyf0","password":"H82z3z36j","email":"Poas5dyf0@moulimmoussaab.ml","birth":{"day":"08","month":"Ja","year":"1995"}}
+[11-08-20 19:39:16] Form filling finished
+[11-08-20 19:39:17] Submitting filled signup form
+[11-08-20 19:39:19] Searching for submit state in DOM
+[11-08-20 19:39:19] Form was not submitted successfully: {"state":"UNKNOWN"}
+[11-08-20 19:39:21] Using Proxy for browser
+[11-08-20 19:39:21] Initializing Browser
+[11-08-20 19:39:21] Trying to validate IP using an API
+[11-08-20 19:39:22] IP validation URL loaded
+[11-08-20 19:39:22] Proxy infomarmation recorded: UA,Ukraine,
+[11-08-20 19:39:22] Checking for validity of IP
+[11-08-20 19:39:22] IP is from a valid country
+[11-08-20 19:39:22] Account Creation Started
+[11-08-20 19:39:22] Starting 1 of 3 form submission
+[11-08-20 19:39:27] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:39:27] Handling Anti-captcha
+[11-08-20 19:39:27] Creating Anti-Captcha Task
+[11-08-20 19:39:27] Anti-Captcha Task created: {"errorId":0,"taskId":1365798439}
+[11-08-20 19:39:27] Requesting Anti-Captcha response key
+[11-08-20 19:39:35] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24V3slZez0YPjMjhPoFpnIjXKWC-sqwkQ-Aey2DHASLn0vZKJH-Jo5cSVopfoQvAuu2TbItPx41lkyIf7TygalD3gGu14-lhB1wa_cIj7C6gxhA2od8XINezuk4QzmB4tvywQWg9h7lCW2oAxQyp6c54TXGPDot6ZF44oASTF6Mb9NE0a_BP8JG73ZLerz7gXjkEaxXHHCbY9DcYyvT_q8xNDrpETJzFQJ-L66AlWNGNPEBaWPOD64YCLu4yf6Er0J2j1fUcQnl-mkoEDrLLAM7DeRmIjPF-5yknJpkrhXO7qUlHK6ppBtP8HNmG7NCPOvcKGlp9x1mQ5inDaLrGliKXXqqmgbVIAX6a3YaKg9lf6wW4ELT6FfzFksGnRPENJyPNBIRUt7uuP0n59k2edlhhX1rtTOWsCGFr0hBVtHU1rmxEzJHkTO8FJ2LQhTYPWwC9SpQ"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599853167,"endTime":1599853168,"solveCount":0}
+[11-08-20 19:39:35] Anti-captcha response key recieved successfully
+[11-08-20 19:39:35] Page Alteration Started
+[11-08-20 19:39:35] Page Alteration Done
+[11-08-20 19:39:35] Starting Form auto filling
+[11-08-20 19:39:35] Checking email availability
+[11-08-20 19:39:35] Form filling started using random data {"username":"Mdj8kzvfg","password":"Nx0dif1gg","email":"Mdj8kzvfg@moulimmoussaab.ml","birth":{"day":"06","month":"Fe","year":"1996"}}
+[11-08-20 19:39:36] Form filling finished
+[11-08-20 19:39:37] Submitting filled signup form
+[11-08-20 19:39:39] Searching for submit state in DOM
+[11-08-20 19:39:39] Form submitted successfully
+[11-08-20 19:39:40] Submitted form page Captured
+[11-08-20 19:39:40] Searching for validation Email
+[11-08-20 19:39:40] Got the validation link: https://www.dofus.com/fr/mmorpg/jouer?guid=1024274a943b54e5a6697c5773f3ec9f
+[11-08-20 19:39:45] Account validated
+[11-08-20 19:39:46] Logging out of the account
+[11-08-20 19:39:46] Account 1 of 3, Created Successfully
+[11-08-20 19:39:46] Starting 2 of 3 form submission
+[11-08-20 19:39:52] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[11-08-20 19:39:52] Handling Anti-captcha
+[11-08-20 19:39:52] Creating Anti-Captcha Task
+[11-08-20 19:39:52] Anti-Captcha Task created: {"errorId":0,"taskId":1365800934}
+[11-08-20 19:39:52] Requesting Anti-Captcha response key
+[11-08-20 19:40:40] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26_y9PagTz3gVlNTBBtgKedJ7fGqjEMnNHoljL1Stmmdovz9eH5Y3WDC6Yh0-SxgE5fwRBCdZ4ASkQVEFq3u4QBTgCLPvFo5Nu0itrGieh8xs9gfWK0mJLtKpDh3qkYTqw_CZG_rZoHQsqHCDfUFVpS9aIq09UCOBwrcnCWfm7jAjv04DWbnmnkEuetU3j_LBlN-lKkwE7Es_A-RTsS4XBeuML9nGXjqRJI35g5oYdLKvRDNMH_rQELjoA-bs3PdtxRngwJbyvDJHYYIYnVplvjA-sEFYwwWqalC-2ztNeiU_XaGoqJISzlcWbd7XxoSeJGTfJt_bR2Ei7Bq5eBkXHwUbTzMRC1DZK-dq5rLZeUZrF-n2wZC-sHyaX1mEcXidUKDPTmNmiLbtqVymJt3WvGh3fzsyxTcrVUhX6VKgqAHADjSCksBmZGIxc_H3haNBPZC5RK"},"cost":"0.002200","ip":"40.68.194.182","createTime":1599853192,"endTime":1599853239,"solveCount":0}
+[11-08-20 19:40:40] Anti-captcha response key recieved successfully
+[11-08-20 19:40:40] Page Alteration Started
+[11-08-20 19:40:40] Page Alteration Done
+[11-08-20 19:40:40] Starting Form auto filling
+[11-08-20 19:40:40] Checking email availability
+[11-08-20 19:40:40] Form filling started using random data {"username":"Z616m5myi","password":"Q81yatv0s","email":"Z616m5myi@moulimmoussaab.ml","birth":{"day":"01","month":"Ju","year":"1988"}}
+[11-08-20 19:40:42] Form filling finished
+[11-08-20 19:40:43] Submitting filled signup form
+[11-08-20 19:40:45] Searching for submit state in DOM
+[11-08-20 19:40:45] Form was not submitted successfully: {"state":"UNKNOWN"}
+[13-08-20 15:29:03] Using Proxy for browser
+[13-08-20 15:29:08] Initializing Browser
+[13-08-20 15:29:08] Trying to validate IP using an API
+[13-08-20 15:29:09] IP validation URL loaded
+[13-08-20 15:29:09] Proxy infomarmation recorded: CA,Canada,Baie-D'Urfe
+[13-08-20 15:29:09] Checking for validity of IP
+[13-08-20 15:29:09] IP is from a valid country
+[13-08-20 15:29:09] Account Creation Started
+[13-08-20 15:29:09] Starting 1 of 3 form submission
+[13-08-20 15:29:11] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[13-08-20 15:29:11] Handling Anti-captcha
+[13-08-20 15:29:11] Creating Anti-Captcha Task
+[13-08-20 15:29:11] Anti-Captcha Task created: {"errorId":0,"taskId":1377615402}
+[13-08-20 15:29:11] Requesting Anti-Captcha response key
+[13-08-20 15:29:54] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq27jtuO3eI1yuzVTleStzefEow0rOHIUX2N4RSpgm3kUzQvmFgZY2_AUJpFLz760UQ91TjPj-XoOobq9t0dA9nFI5xm7zbGukvXD1XZYB4Q0oM-Ta0U2s7Ppst5CLI1aQUjKHpdal76ayctfZB356lCBGE2XSa1InV7SPIABRMSgsMLGxndDBlNlBaqJGaMGvwVWdIn46NXldj6f9d655fPb8QYEYCIU13ZSte79DggAQtz6l6yIVmkPLoZtzGFoAOzKWk4TQ6uiG5-J70ZNziSo--vwEwFokRHBCYoAVLKR16imyk1ipzcE27m3gXJFUhTzwaFeY7laSwObmO3lI1J9Oxdu0l-ClpOCgoxUwZS1nRhIjQJ3QcOkrXMF9lpnO7NSDqc664C_BPZ6jFDY21asaqo7UCcNq2-jMRL10m6vEEQUdl3u8pcuR6IYAECf0lp5ndLD","cookies":{"NID":"204=I_QezwgZ9l9keqRwk0JpKCzL1v9iAuZYnS6XA7y1vSlEWsaffnpK0HoetLsAsUIsQBQS_4nWQJd0O-QjmiTEIzfFTWikxUtZ5J91R8Vzt5m50Eih8bW6idp2743dno-qVK8v8UqfsLSGJCPLQqWqdm_nGMYDc058NpGuxa3bV9o"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1600010951,"endTime":1600010990,"solveCount":0}
+[13-08-20 15:29:54] Anti-captcha response key recieved successfully
+[13-08-20 15:29:54] Page Alteration Started
+[13-08-20 15:29:54] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[13-08-20 15:29:54] Starting 2 of 3 form submission
+[13-08-20 15:29:54] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[13-08-20 15:29:54] Handling Anti-captcha
+[13-08-20 15:29:54] Creating Anti-Captcha Task
+[13-08-20 15:29:55] Anti-Captcha Task created: {"errorId":0,"taskId":1377617983}
+[13-08-20 15:29:55] Requesting Anti-Captcha response key
+[13-08-20 15:30:29] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25KiJwMQP1eEakNaVCXe9aGkj4JFhMUK3s1LqICetFe5dkN1OD1tbDtHdJRFY1A8ACs2zer7UhMwZsSOWmeypH8T7bdYvaEDs2AKKmqa6vL1jgSpHLnDzFmWUBEB19c5GKHECE81-RjVxjuGiAo_7dNIR--8JnkTHQPH8I70HgCV1YMZ280Mtajd-XL4xxd8472kerrxBAM9CikhSHTfALeSqdVK3bcRvrI5CH7pY_GNLTxURALcf6SkNYfVSHVI3CahnZZ1qt1djM8IskQs1Axef9Ed5O6fsiWbbeBfWE4ZUQOOkBQbbQc6Q-X4PNXM8-yok9XLWoQ2rQk5MUJshNuPKLns-FhqQVKQr7jw6MGEEfMh6O9vw-uaJXjR9VjzB-qo4MEvfLOIzn-oUyWRGS67BHA6xxQtlrAyjvsdNGSRPf8Hs0","cookies":[]},"cost":"0.002200","ip":"40.68.194.182","createTime":1600010995,"endTime":1600011024,"solveCount":0}
+[13-08-20 15:30:29] Anti-captcha response key recieved successfully
+[13-08-20 15:30:29] Page Alteration Started
+[13-08-20 15:30:29] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[13-08-20 15:30:29] Starting 3 of 3 form submission
+[13-08-20 15:30:29] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[13-08-20 15:30:29] Handling Anti-captcha
+[13-08-20 15:30:29] Creating Anti-Captcha Task
+[13-08-20 15:30:30] Anti-Captcha Task created: {"errorId":0,"taskId":1377620127}
+[13-08-20 15:30:30] Requesting Anti-Captcha response key
+[13-08-20 15:31:04] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25ziP6i09uMDWTYxe5C9mkaompIrwQ2xk5x5GKKdszFdEishph7qXhDyQDRU3L9TemGiZENtVEL954GG0F9V5_2P3orjJhE51icHlYcWlpwgI1NH8iRYtBJvRGC2XPOAwm0CYW-RD0b6GJO6qX8IvdOGGkmGrt9tL0S5dlAmyZ8u4fwl4z_TShlfG4so9VKEcMoaNFseXNv_jZLKJoUChiuCa9mFNmw5QWU6dpZKUEpqNPh9n0nLFig7ah3nmxYlyBdlb7ViUTapuzpzdBKavdD0oaRKPho9yqPZkF2JVUI2BvY-RCEJtwn9neOHHFdMHgdoW5YBrXcrQYfs_tV--VcX3GIIOo2959C0BX34J29WC34Kcwg5SEotojoEZNkDqjU4OzvDv7dGVGzdNCDytXMPr2MuuswcUAZ92Szxf-85NMOO-r4iucZkCLEoPM16NA4-Xye","cookies":{"NID":"204=Fg5C1IxjIA3eJBjTV3ycJ0nuAQPiGPcyMD5g59oF6DskGh8lN6kzJtVHqxb9JcyGiK9rMG6_-hMKBTjSkjV0YMZWJ8syt8jq6znhMggRhQKgLsSkXWXst58LktFCQ2iEYwklUy9Qa9t-K4WYrDgp_bWGNKRRvlv4kzfj_pOJPx0"}},"cost":"0.002200","ip":"40.68.194.182","createTime":1600011030,"endTime":1600011061,"solveCount":0}
+[13-08-20 15:31:04] Anti-captcha response key recieved successfully
+[13-08-20 15:31:04] Page Alteration Started
+[13-08-20 15:31:04] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[13-08-20 15:46:29] Using Proxy for browser
+[13-08-20 15:46:30] Initializing Browser
+[13-08-20 15:46:30] Trying to validate IP using an API
+[13-08-20 15:46:32] IP validation URL loaded
+[13-08-20 15:46:32] Proxy infomarmation recorded: CA,Canada,Baie-D'Urfe
+[13-08-20 15:46:32] Checking for validity of IP
+[13-08-20 15:46:32] IP is from a valid country
+[13-08-20 15:46:32] Account Creation Started
+[13-08-20 15:46:32] Starting 1 of 3 form submission
+[13-08-20 15:46:33] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[13-08-20 15:46:33] Handling Anti-captcha
+[13-08-20 15:46:33] Creating Anti-Captcha Task
+[13-08-20 15:46:34] Anti-Captcha Task created: {"errorId":0,"taskId":1377682906}
+[13-08-20 15:46:34] Requesting Anti-Captcha response key
+[13-08-20 15:47:12] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq27vf3Mm0fHCZThBvU7zijzG2d2OgkHWwYrbCyQ-8IsNvK5D50uDNUWGWEmnOe7hLTXEAKdDQzLQMEyaTihc7d_PVDWGiiI1rRGyCZpPqvipcQjjymFX-3FLizKrjvKTuZLFu7_o1UTOhUy1ZW-Z6bwXR6IYe39RPazvz7_qEZzbv9y_ICJGEwNA-jXVZyjTaN5PH0uw7nDIJLJhljSeFV9l0RrEsUQuWBToq17TQfMkUO_lEYR3946N8uVvnU3SR8S8WI7NjvMK69pqMCBPuQn6u9yhUqRwjfduOOSjqUwp-g9vKmOe4RymdcpMWt4LlGOA5CpxS0eMfHETpT9fRrLVNCs7nU2Ana5SF8DifTR78UyMiKP9IaCGNm8I9VAN0qJiyll-VGfdnm4S7gIZz1T8HH6KQDHN1A_1W_lF2a3_tGOgpXIKay6InCYKYokNwKgTzsWm"},"cost":"0.002200","ip":"185.166.219.215","createTime":1600011994,"endTime":1600012024,"solveCount":0}
+[13-08-20 15:47:12] Anti-captcha response key recieved successfully
+[13-08-20 15:47:12] Page Alteration Started
+[13-08-20 15:47:12] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[13-08-20 15:47:12] Starting 2 of 3 form submission
+[13-08-20 15:47:13] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[13-08-20 15:47:13] Handling Anti-captcha
+[13-08-20 15:47:13] Creating Anti-Captcha Task
+[13-08-20 15:47:14] Anti-Captcha Task created: {"errorId":0,"taskId":1377685410}
+[13-08-20 15:47:14] Requesting Anti-Captcha response key
+[13-08-20 15:47:39] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq25ZNYGQ1HR6MkREEr9pXCgdrSe7O2jD4k2lpRnxcuyeBTPtNZ9-tcHphH_gzQ5-rBQ0AfOdgFlNJ_H6Lj3eIYX7oQCYbq4vVLBG6kqxpXbiMF1XWXjfr6Y5PZeugSKiEEFOUia-JMDegy3ch91fLzX9pmRAJp8bQW8rr2wjlsEuiYB49TGoGJaU1V35DpMuEIwbmy0RHsUzJAbl2KV-5YObeIcBIQp832WY8-axCO2zoEn5VpdgpuWgOZLdgb26_p2vwFytOtWPGA2kAdXT24VYpTr3_TqiHzJn29-nCmLfHp3jipM6ea0lFvZZjbNdu6VlWCLO2G2DWrEZ6FhfmxyQeLgetw2fRAcqwEnA1NFgWHRV29PgoD2x2Fxd6GQSSTbZFxqRcNNU7Q6un8oejnLQSsKDNMXs1k6N-4wfjKIzlL4RymGWNAx3ZBoX85BCiycizAyx"},"cost":"0.002200","ip":"185.166.219.215","createTime":1600012033,"endTime":1600012055,"solveCount":0}
+[13-08-20 15:47:39] Anti-captcha response key recieved successfully
+[13-08-20 15:47:39] Page Alteration Started
+[13-08-20 15:47:39] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[13-08-20 15:47:40] Starting 3 of 3 form submission
+[13-08-20 15:47:40] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[13-08-20 15:47:40] Handling Anti-captcha
+[13-08-20 15:47:40] Creating Anti-Captcha Task
+[13-08-20 15:47:41] Anti-Captcha Task created: {"errorId":0,"taskId":1377687056}
+[13-08-20 15:47:41] Requesting Anti-Captcha response key
+[13-08-20 15:48:01] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq244EV2fFdp9hmWT6YM06_TZ0Vqw05zoD8r73YWNuWkncWp5sZbd7pJebhW7ieWs2wHngdlCHg86MT20jY4W70QUGTul7qh2oK_u20_rc_-LuYm76Ak6HC41JsRyiBRCdcV9TBIeixYfhp0o_18cLJwOQkUMA9fB4-jd6Gyl7CIKTcpGl2ff0sA82TQZjePWt7O2mJqaOZe26dSEn8hUqDuPQbzFE02Ozm9fqJt6h9C1okSKVhrf9tk5Vg3aQDE77QgVrjcbzzyDDE1TEfZR-cZcQrNUGrREUjA-FqSVALVNGGgbiWirFx8Psix07_s2Kvoyp7MiPhsFHZfAVtEZs3V0RJYfGH0pNUtxzq977Xmv6CGg5b3byj2ilg0rNDLBrnaegNXX852TIz89yWHN489xQsne17lY1Y8DLOmlfV_LfzjYMUp0J_3j9v4twxcp4JDTuHSG"},"cost":"0.002200","ip":"185.166.219.215","createTime":1600012061,"endTime":1600012080,"solveCount":0}
+[13-08-20 15:48:01] Anti-captcha response key recieved successfully
+[13-08-20 15:48:01] Page Alteration Started
+[13-08-20 15:48:01] Error in page injection: {"errorId":5,"error":"Iframe not found","content":null}
+[28-09-20 00:07:35] Initializing Browser
+[28-09-20 00:07:35] Account Creation Started
+[28-09-20 00:07:35] Starting 1 of 3 form submission
+[28-09-20 00:09:44] Initializing Browser
+[28-09-20 00:09:44] Account Creation Started
+[28-09-20 00:09:44] Starting 1 of 3 form submission
+[28-09-20 00:10:16] Initializing Browser
+[28-09-20 00:10:16] Account Creation Started
+[28-09-20 00:10:16] Starting 1 of 3 form submission
+[28-09-20 00:11:27] Initializing Browser
+[28-09-20 00:11:27] Account Creation Started
+[28-09-20 00:11:27] Starting 1 of 3 form submission
+[28-09-20 00:11:46] Initializing Browser
+[28-09-20 00:11:46] Account Creation Started
+[28-09-20 00:11:46] Starting 1 of 3 form submission
+[28-09-20 00:11:49] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[28-09-20 00:11:49] Handling Anti-captcha
+[28-09-20 00:11:49] Creating Anti-Captcha Task
+[28-09-20 00:11:50] Anti-Captcha Task created: {"errorId":0,"taskId":363302151}
+[28-09-20 00:11:50] Requesting Anti-Captcha response key
+[28-09-20 00:11:51] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26-drk8v5JaGaNA6JMuEa6YGWpQhQTwk4oIk5Gf8KD07eifmy_uEvVK06bpFZgt1wHZAmeqU8RYwOMekAM6xZ0aprGPdt59G0HGyfZmCAJavJaNPsqkgUEIiXLgyhqp40-AwDoDf0RxaFld8Km5Vi2LrQD55CB0nEu8uTLYUzYbBok9oYv-Weqn7KTYOyat7c2OgJqKGwwVvZ7Cj2j7StRBcXsk6p-YTWNllzufGlfQqRg4WglD6JCVxkWNwkYtPkPSi1MX_Q5nPUMws8pbIt7hoKJI9SwiMNUsv5a3D5gOfNkTh-PT2zrKcjT4u2M5ff9jG17NLigEp0TSXqN2aLnTRAngzgIOSZmOcngz5k5lNSDmCPbTJNnLbhrL2tWVbJYWqbk0GYz4Jclw5_yKaxgXGwuuKFdE7lFt-D6J63Yg52Cw8_fcMzC_2WdMCPlF6bg4_alj6mYR1TnHsdRiLbbGZ96pYfJZS51Z2ddZAyxtUOPbL4KhgOF2ibch2IDTvXiIa8ETHvpTH38i-y5tRHBomUP0Gw"},"cost":"0.00200","ip":"105.159.161.152","createTime":1603836732,"endTime":1603836732,"solveCount":0}
+[28-09-20 00:11:51] Anti-captcha response key recieved successfully
+[28-09-20 00:11:51] Page Alteration Started
+[28-09-20 00:11:51] Page Alteration Done
+[28-09-20 00:11:51] Starting Form auto filling
+[28-09-20 01:00:04] Initializing Browser
+[28-09-20 01:00:04] Account Creation Started
+[28-09-20 01:00:04] Starting 1 of 3 form submission
+[28-09-20 01:00:13] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[28-09-20 01:00:13] Handling Anti-captcha
+[28-09-20 01:00:13] Creating Anti-Captcha Task
+[28-09-20 04:51:04] Initializing Browser
+[28-09-20 04:51:05] Account Creation Started
+[28-09-20 04:51:05] Starting 1 of 3 form submission
+[28-09-20 04:51:11] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[28-09-20 04:51:11] Handling Anti-captcha
+[28-09-20 04:51:11] Creating Anti-Captcha Task
+[28-09-20 04:51:12] Anti-Captcha Task created: {"errorId":0,"taskId":364691044}
+[28-09-20 04:51:12] Requesting Anti-Captcha response key
+[28-09-20 04:51:20] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq24SjhO1BNGYjLhiusGFVqT2yy4AEFFlAPgKAnJp6Y_IDy5d95o4-fRApmtBKZn2hnC91oZSc8aiSh6xOFnBeadSkwhZgL5uC-L8Fb-VQgPkHGQgVxDC1te9KhFWIit7hBHa9t3eZzo2WcE_i0SMQADGn_q5hcnHRK8Q5uRNgIQFgmeGl_JwGDhU1r1JkM9-haHqBK54msJjEJviIiYxSaP3QARgDYow9vtsDDfsLmRRJDa9TR57acqiha6VHUCRwn0UXaHQtyIy-EPN3gLrWyUFg2gMJD5b5WLj30qfumT-TNsdq5HinW50yHhlXKD7_TtINZM9mKVsM9gm9y7YK4BhmgpvfmU5ppPA35WZO_qdYbfbkCKI0Lu67b3IOuWyWuWlfZqFw4jLXor3URi4HPsYLnz7GxgBrAm6W70bjfti_6HyUvIuDYU5TjBXMGP-6lDYhrtX","cookies":{"NID":"204=lSik0rEk_eXZuKZPWpMEG3sOzYIELaVQccVHJXp3tvWOE0dqdXm7q5yxQG4_yijv5GN3syIcrLn7ENT1WD_gQqDOe7a0_IS5pZ0yd9jB0MBbUZ4wme3YfYKlZIl7cvc5K9IE3G_3lsUDsuiz3aL1lbUSSpB5jskiwcfCdZowxMk"}},"cost":"0.00200","ip":"105.159.161.152","createTime":1603853495,"endTime":1603853502,"solveCount":0}
+[28-09-20 04:51:20] Anti-captcha response key recieved successfully
+[28-09-20 04:51:20] Page Alteration Started
+[28-09-20 04:51:20] Page Alteration Done
+[28-09-20 04:51:20] Starting Form auto filling
+[28-09-20 04:56:42] Initializing Browser
+[28-09-20 04:56:42] Account Creation Started
+[28-09-20 04:56:42] Starting 1 of 3 form submission
+[28-09-20 04:57:05] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[28-09-20 04:57:05] Handling Anti-captcha
+[28-09-20 04:57:05] Creating Anti-Captcha Task
+[28-09-20 04:57:07] Anti-Captcha Task created: {"errorId":0,"taskId":364717454}
+[28-09-20 04:57:07] Requesting Anti-Captcha response key
+[28-09-20 04:58:25] Anti-Captcha response key recieved: {"errorId":0,"status":"ready","solution":{"gRecaptchaResponse":"03AGdBq26FGQqPPPBJn5INgs6xABvytYE59NYf7uXuxB1PHqTjdkLWXalkAkip2oBH_eZbRum61L-3XrPCDEmTAIaaTkQgcf10uZIoP1VBZlTZ8wvH0XnYngRZr4_fQTuj1qvMaOIj4D_9cBwvNPpDcfehCYafra1ichQz6PeUgQ8mcud18EpIqCQgYQUn0BfXt7GLuOZ6gcL0ADlpa9gOr0_c-EPxEDbbLwMuI8FVQOJqk3IKRvo4fswpkG79fK5SA1s_DqsuSmhf4DY_IoDxHFRopBxPfiD9UxGkAeDHiTwtQDMFIT4Y9Jzyo5Wkg6b85hWlDfpvCsuACeoZwCRC_KEmtMBOwnBCAcYQJ8B2Yw4rW0W-Rj9Z6Znsvpjl1QV_Y7iCJnsHUriW7wFobWUjSo3S0hzaDwSKO0kjr2lgozMNPiF5Bb5uQv4XdY8ahE47yw-LnFVze6y7nC_bJWjV1Wz3DWsHfVTAm33q_Rw_hrEW5G59XtL4BSGwpuOsWV-bnBOab1V9OfsISiSdisEzNTF23BLfSagrjw","cookies":{"NID":"204=CJ7Gofl17MvpSpazvUYpP7m0dRVLu84zNdMoodztOsC4o43KFiqGqBq6Wyx0s-LM_vLSoStHZCTHZr6muVI9Uf4PDrvEldIgGfEm7kClF5M9AaRgkLohu6P1Sf-hOqfQhV08lRdaEX3N5afzv9qikykKHo2uc1BtZpMPXTHXtK0"}},"cost":"0.00200","ip":"105.159.161.152","createTime":1603853849,"endTime":1603853927,"solveCount":0}
+[28-09-20 04:58:25] Anti-captcha response key recieved successfully
+[28-09-20 04:58:25] Page Alteration Started
+[28-09-20 04:58:25] Page Alteration Done
+[28-09-20 04:58:25] Starting Form auto filling
+[28-09-20 05:02:14] Initializing Browser
+[28-09-20 05:02:14] Account Creation Started
+[28-09-20 05:02:14] Starting 1 of 3 form submission
+[28-09-20 05:02:18] https://www.dofus.com/fr/mmorpg/jouer URL loaded
+[28-09-20 05:02:18] Handling Anti-captcha
+[28-09-20 05:02:18] Creating Anti-Captcha Task
+[28-09-20 05:02:19] Anti-Captcha Task created: {"errorId":0,"taskId":364738994}
+[28-09-20 05:02:19] Requesting Anti-Captcha response key
