@@ -16,7 +16,7 @@ function nameGen(type){
 	var tp = type;
 	
 	var names = ""
-	
+	const i = Math.floor(Math.random() * 10) ;
 	
 		if(tp === 1){
 			if(i < 3){
@@ -83,10 +83,11 @@ const releaseEmail = (email) =>
 const oneTwo = Math.floor(Math.random() * 2) + 1 ;
 
   
-  let numberOfNames = 20;
+  let numberOfNames = 3;
 for(var i = 0;i < numberOfNames;i++){
-    let firstLtr = nameGen(oneTwo);
-    let mail =firstLtr.replace(/\s/g,'').replace("'","").toLowerCase().replace(/[eeeë]/g,"e")+"@moulimmoussaab.ml";
+	const ran = Math.floor(Math.random() * 999) + 1 ;
+    let firstLtr = nameGen(oneTwo).replace(/\s/g,'').replace("'","").toLowerCase().replace(/[eeeë]/g,"e")+ran;
+    let mail =(firstLtr.length>19?firstLtr.substring(0,18):firstLtr)+"@moulimmoussaab.ml";
     releaseEmail(mail)
   }
   

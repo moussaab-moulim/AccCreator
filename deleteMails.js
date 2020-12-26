@@ -10,7 +10,7 @@ const releaseEmail = (email) =>
         console.log(mail);
       return resolve();
     };
-    http.open('DELETE', getMailListUrl + email + '?_mailsacKey=' + key+'&deleteAddressMessages=true', true);
+    http.open('DELETE', getMailListUrl + email + '?_mailsacKey=' + key+'&deleteAddressMessages=false', true);
     http.responseType = 'json';
     http.send();
   });
